@@ -64,6 +64,6 @@ def test_calendario_confirmado():
 
 def test_exportacao_forte_so_quando_pesa():
     import gerar_adv_dados as g
-    meses = [10] * 11 + [200]  # pico em dez
-    assert g.exportacao_forte({"exportacao_mensal_t": meses, "producao": {"total_t": 10_000}}) is not None   # 3,1%
-    assert g.exportacao_forte({"exportacao_mensal_t": meses, "producao": {"total_t": 600_000}}) is None      # 0,05%
+    meses = [100] * 11 + [2000]  # 3.100 t no ano, pico em dez
+    assert g.exportacao_forte({"exportacao_mensal_t": meses, "producao": {"total_t": 100_000}}) is not None   # 3,1%
+    assert g.exportacao_forte({"exportacao_mensal_t": meses, "producao": {"total_t": 1_000_000}}) is None    # 0,3%
