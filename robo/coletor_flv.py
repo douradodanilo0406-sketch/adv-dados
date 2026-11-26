@@ -112,11 +112,27 @@ def baixar(nome, destino):
     caminho = os.path.join(destino, f"{nome}.txt")
     if not os.path.exists(caminho):
         log(f"baixando {nome}.txt (arquivo grande, pode levar alguns minutos) …")
-        with requests.get(URL_PROHORT.format(nome), stream=True, timeout=900, verify=False) as r:
-            r.raise_for_status()
-            with open(caminho, "wb") as f:
-                for bloco in r.iter_content(1 << 20):
-                    f.write(bloco)
+        cab = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                             "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+               "Accept": "*/*", "Accept-Language": "pt-BR,pt;q=0.9",
+               "Referer": "https://portaldeinformacoes.conab.gov.br/download-arquivos.html"}
+        ultimo = None
+        for tentativa in range(3):
+            try:
+                with requests.get(URL_PROHORT.format(nome), stream=True, timeout=900,
+                                  verify=False, headers=cab) as r:
+                    r.raise_for_status()
+                    with open(caminho + ".tmp", "wb") as f:
+                        for bloco in r.iter_content(1 << 20):
+                            f.write(bloco)
+                os.replace(caminho + ".tmp", caminho)
+                break
+            except Exception as e:
+                ultimo = e
+                log(f"tentativa {tentativa + 1} falhou: {e}")
+                import time; time.sleep(10 * (tentativa + 1))
+        else:
+            raise ultimo
     return caminho
 
 
