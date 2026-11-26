@@ -59,4 +59,10 @@ jobs:
           git add publico historico dados base CALIBRAGEM.md
           if git diff --cached --quiet; then echo "sem mudança"; exit 0; fi
           git commit -m "Coleta $(TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M')"
-          git push
+          # se outra rodada publicou antes, junta e fica com os dados desta (mais recentes)
+          for i in 1 2 3; do
+            git push && exit 0
+            git pull --rebase -X theirs || { git rebase --abort; exit 1; }
+            sleep 5
+          done
+          exit 1
