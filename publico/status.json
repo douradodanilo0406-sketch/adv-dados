@@ -1,0 +1,19 @@
+{
+ "versao": "2026-11-26T19:27:39-03:00",
+ "fontes": {
+  "prohort": {
+   "status": "ok",
+   "dados_ate": "2026-11-04"
+  },
+  "ceagesp": {
+   "status": "ok",
+   "dados_ate": "2026-11-25"
+  },
+  "base_anual": {
+   "status": "ok",
+   "gerado_em": "2026-11-24",
+   "obs": "base reutilizada"
+  }
+ },
+ "avisos": []
+}

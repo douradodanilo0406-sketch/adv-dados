@@ -1,0 +1,59 @@
+name: Coleta AdV Dados
+
+on:
+  schedule:
+    - cron: "0 10 * * 1,3,5"   # seg, qua e sex às 07:00 (Brasília)
+  workflow_dispatch:
+    inputs:
+      anual:
+        description: "Forçar regenerar a base anual (IBGE/Comex)"
+        type: boolean
+        default: false
+
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+          cache: pip
+
+      - name: Dependências
+        run: pip install -r requirements.txt
+
+      - name: Testes das regras
+        run: python -m pytest -q tests
+
+      - name: Cache do arquivo da Conab (só para reaproveitar no mesmo dia)
+        uses: actions/cache@v4
+        with:
+          path: cache
+          key: prohort-${{ github.run_id }}
+          restore-keys: prohort-
+
+      - name: Rodar o robô
+        env:
+          ADV_CACHE: cache
+        run: |
+          rm -f cache/ProhortDiario.txt   # sempre baixar a versão do dia
+          python robo/gerar_adv_dados.py ${{ inputs.anual && '--anual' || '' }}
+
+      - name: Publicar
+        run: |
+          git config user.name "adv-robo"
+          git config user.email "adv-robo@users.noreply.github.com"
+          git add publico historico dados base
+          if git diff --cached --quiet; then echo "sem mudança"; exit 0; fi
+          git commit -m "Coleta $(TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M')"
+          git push

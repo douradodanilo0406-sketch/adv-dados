@@ -1,0 +1,1388 @@
+data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta,fonte,certeza
+2026-11-11,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.05,14.04,15.15,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.36,6.8,7.22,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.72,5.53,6.34,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,2.73,2.98,3.22,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACATE MARGARIDA,BOCA 12 A 15,KG,2.25,2.5,2.73,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACAXI PÉROLA,08 FRUTOS,UN,6.08,6.55,7.06,1.8,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACAXI PÉROLA,10 FRUTOS,UN,4.26,4.76,5.27,1.4,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACAXI PÉROLA,12 FRUTOS,UN,3.05,3.37,3.6,1.0,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ACEROLA,-,KG,15.0,16.56,18.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA FLA,CALIBRE 2,KG,6.34,6.92,7.51,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA FLA,CALIBRE 3,KG,7.59,8.17,8.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA FLA,CALIBRE 4,KG,9.26,9.68,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA FORTUNE,CALIBRE 2,KG,7.04,8.01,8.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA FORTUNE,CALIBRE 3,KG,8.97,9.83,10.65,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA FORTUNE,CALIBRE 4,KG,10.65,11.48,12.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA IMP.,48 A 56 FRUTOS,KG,9.44,10.0,10.56,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA NACIONAL,5A,KG,7.5,8.0,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA RUBI MEL,CALIBRE 2,KG,3.62,3.99,4.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA RUBI MEL,CALIBRE 3,KG,4.57,4.95,5.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA RUBI MEL,CALIBRE 4,KG,5.51,5.86,6.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMEIXA SECA IMP.,-,KG,25.0,28.0,30.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,AMORA,-,KG,38.67,42.15,45.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ATEMOIA,05 A 08 FRUTOS,KG,14.56,15.49,16.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ATEMOIA,09 A 12 FRUTOS,KG,11.41,12.45,13.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ATEMOIA,13 A 18 FRUTOS,KG,8.26,9.3,10.07,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA MAÇÃ,PRIMEIRA,KG,7.43,7.71,8.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA MAÇÃ,SEGUNDA,KG,6.29,6.85,7.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA NANICA,PRIMEIRA,KG,2.94,3.17,3.41,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA NANICA,SEGUNDA,KG,2.24,2.58,2.92,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA OURO VERDE,PRIMEIRA,KG,7.0,7.5,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA PRATA MG,PRIMEIRA,KG,5.29,5.54,5.79,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA PRATA MG,SEGUNDA,KG,4.2,4.7,5.2,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA PRATA SP,PRIMEIRA,KG,3.51,3.92,4.34,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA PRATA SP,SEGUNDA,KG,2.97,3.2,3.41,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA TERRA,PRIMEIRA,KG,5.82,6.08,6.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,BANANA TERRA,SEGUNDA,KG,5.36,5.59,5.82,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CACAU,-,KG,7.17,7.58,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CAJU,03 A 04 FRUTOS,KG,16.8,18.38,19.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CAJU,05 A 06 FRUTOS,KG,13.75,15.0,16.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CARAMBOLA,-,KG,14.38,15.13,15.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CASTANHA IMP.,-,KG,70.0,75.0,80.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CASTANHA NACIONAL,-,KG,70.0,72.0,75.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CASTANHA PORTUGUESA NACIONAL,-,KG,50.0,55.0,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CEREJA IMP.,A,KG,49.84,55.72,61.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,COCO VERDE,-,UN,2.33,2.72,3.01,2.5,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,CUPUAÇU,-,KG,6.67,7.26,7.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,FIGO,08 FRUTOS,KG,54.12,58.34,62.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,FIGO,10 FRUTOS,KG,38.2,45.47,52.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,FRAMBOESA,-,KG,110.81,119.46,128.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GOIABA BRANCA,09 A 12 FRUTOS,KG,6.61,6.95,7.44,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GOIABA BRANCA,15 FRUTOS,KG,5.81,6.28,6.59,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GOIABA BRANCA,18 FRUTOS,KG,5.38,5.6,5.79,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GOIABA VERMELHA,09 A 12 FRUTOS,KG,7.31,7.68,8.01,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GOIABA VERMELHA,15 FRUTOS,KG,6.53,6.86,7.24,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GOIABA VERMELHA,18 FRUTOS,KG,5.88,6.19,6.49,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GRANADILLA IMP. COLÔMBIA,-,KG,46.95,50.98,55.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GRAPE-FRUIT,-,KG,4.51,4.82,5.07,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GRAPE-FRUIT IMP.,-,KG,7.33,8.0,8.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,GRAVIOLA,-,KG,10.33,11.21,12.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,JACA,-,KG,4.35,4.84,5.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,KIWI GOLD IMP.,44 A 48 FRUTOS,KG,40.72,41.91,43.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA BAIA,02 A 03 DZ,KG,3.67,3.87,4.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA BAIA,04 A 05 DZ,KG,2.67,3.0,3.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA BAIA,06 A 07 DZ,KG,2.0,2.33,2.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA BAIA IMP.,-,KG,6.67,7.33,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA LIMA,09 A 12 DZ,KG,3.03,3.22,3.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA LIMA,13 A 15 DZ,KG,2.48,2.69,2.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA LIMA,16 A 21 DZ,KG,1.72,1.96,2.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA PERA,09 A 12 DZ,KG,2.1,2.26,2.4,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA PERA,13 A 15 DZ,KG,1.76,1.9,2.0,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA PERA,16 A 21 DZ,KG,1.25,1.41,1.56,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA SELETA,11 A 12 DZ,KG,3.51,3.68,3.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA SELETA,13 A 15 DZ,KG,2.81,3.06,3.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA SELETA,16 A 21 DZ,KG,1.9,2.35,2.8,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA VALÊNCIA,A (10/13 DZ),KG,2.15,2.36,2.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA VALÊNCIA,B (14/15 DZ),KG,1.73,1.94,2.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA VALÊNCIA,C (18/21 DZ),KG,1.31,1.51,1.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LARANJA VALÊNCIA IMP.,-,KG,5.24,5.87,6.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LICHIA,CUMBUCA,KG,34.99,39.36,43.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMA-DA-PÉRSIA,A (09/10 DZ),KG,3.26,3.38,3.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMA-DA-PÉRSIA,B (13/15 DZ),KG,2.76,2.88,2.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMA-DA-PÉRSIA,C (18/24 DZ),KG,2.1,2.32,2.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMÃO ROSA,-,KG,2.78,3.38,3.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMÃO SICILIANO,-,KG,4.64,5.21,5.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMÃO SICILIANO IMP.,-,KG,6.67,7.33,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMÃO TAITI,15 A 18 DZ,KG,8.42,8.86,9.27,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMÃO TAITI,21 A 27 DZ,KG,6.37,6.89,7.28,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,LIMÃO TAITI,ACIMA DE 31 DZ,KG,4.33,4.77,5.22,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ FUJI,110 A 135 FRUTOS,KG,6.6,6.85,7.1,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ FUJI,150 A 180 FRUTOS,KG,5.66,6.06,6.47,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ FUJI,80 A 100 FRUTOS,KG,7.2,7.51,7.87,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ GALA,110 A 135 FRUTOS,KG,7.4,7.56,7.78,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ GALA,150 A 180 FRUTOS,KG,6.73,6.94,7.12,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ GALA,80 A 100 FRUTOS,KG,8.02,8.37,8.69,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ GALA IMP.,120 A 150 FRUTOS,KG,7.38,7.69,7.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ GALA IMP.,80 A 110 FRUTOS,KG,8.22,8.54,8.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ GRANNY SMITH IMP.,120 A 150 FRUTOS,KG,8.74,9.06,9.37,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ GRANNY SMITH IMP.,80 A 110 FRUTOS,KG,9.69,10.04,10.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ PINK LADY IMP.,-,KG,6.89,7.67,8.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ RED IMP. ARGENTINA,120 A 150 FRUTOS,KG,7.79,8.09,8.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ RED IMP. ARGENTINA,80 A 110 FRUTOS,KG,8.61,9.0,9.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ RED IMP. CHILE,120 A 150 FRUTOS,KG,7.6,7.7,7.8,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ RED IMP. CHILE,80 A 110 FRUTOS,KG,8.76,8.99,9.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ RED IMP. ITÁLIA,120 A 150 FRUTOS,KG,7.22,7.78,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAÇÃ RED IMP. ITÁLIA,80 A 110 FRUTOS,KG,8.33,8.61,8.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAMÃO FORMOSA,05 A 09 FRUTOS,KG,7.44,7.96,8.49,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAMÃO FORMOSA,10 A 16 FRUTOS,KG,5.82,6.29,6.73,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAMÃO HAVAÍ,12 FRUTOS,KG,3.76,4.11,4.33,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAMÃO HAVAÍ,15 A 18 FRUTOS,KG,4.62,4.97,5.22,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAMÃO HAVAÍ,21 FRUTOS,KG,3.44,3.85,4.17,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MAMÃO HAVAÍ,24/28 FRUTOS,KG,2.48,2.78,3.04,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA BOURBON,-,KG,4.39,4.67,4.94,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA ESPADA,A,KG,3.33,3.83,4.17,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA HADEM,08 A 10 FRUTOS,KG,5.83,6.33,6.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA HADEM,12 FRUTOS,KG,5.5,5.67,5.83,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA HADEM,13 A 15 FRUTOS,KG,5.0,5.17,5.33,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA LOLITA,-,KG,4.27,4.74,5.2,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA PALMER,08 A 10 FRUTOS,KG,3.4,3.51,3.63,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA PALMER,12 FRUTOS,KG,3.07,3.18,3.29,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA PALMER,13 A 15 FRUTOS,KG,2.78,2.91,3.01,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA PALMER,18 FRUTOS,KG,2.52,2.6,2.69,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA ROSA,A,KG,3.99,4.27,4.54,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA TOMMY ATCKINS,08 A 10 FRUTOS,KG,3.49,3.62,3.73,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA TOMMY ATCKINS,12 FRUTOS,KG,3.21,3.32,3.45,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA TOMMY ATCKINS,13 A 15 FRUTOS,KG,2.92,3.05,3.19,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGA TOMMY ATCKINS,18 FRUTOS,KG,2.67,2.79,2.88,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MANGOSTIM,-,KG,80.0,90.0,100.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MARACUJÁ AZEDO,3A,KG,9.23,9.71,10.18,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MARACUJÁ AZEDO,4A,KG,10.51,10.82,11.12,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MARACUJÁ AZEDO,SUPER,KG,11.23,11.62,11.99,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MARACUJÁ DOCE,04 A 06 FRUTOS,KG,20.0,22.5,25.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MARACUJÁ DOCE,07 A 09 FRUTOS,KG,17.5,19.0,20.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MARACUJÁ DOCE,10 A 15 FRUTOS,KG,15.0,16.5,17.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,1.93,2.06,2.18,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,1.64,1.75,1.88,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.31,1.41,1.52,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELANCIA BABY,-,KG,3.76,4.11,4.47,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,4.01,4.14,4.26,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.76,3.85,3.96,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.57,3.66,3.72,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO AMARELO,ACIMA DE 13 FRUTOS,KG,3.35,3.47,3.56,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO GÁLIA,-,KG,5.56,6.11,6.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO ORANGE,03 A 04 FRUTOS,KG,10.0,10.5,10.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO ORANGE,05 A 06 FRUTOS,KG,9.17,9.67,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO ORANGE,07 A 08 FRUTOS,KG,8.33,8.67,9.17,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO PELE DE SAPO,06 A 08 FRUTOS,KG,4.32,4.53,4.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,4.01,4.15,4.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.56,3.8,4.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.56,5.89,6.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.58,9.06,9.55,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.19,7.28,7.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,4.19,5.05,5.9,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MIRTILO,-,KG,53.33,56.68,60.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MIRTILO IMP.,-,KG,71.95,82.65,93.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,26.45,29.44,31.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MORANGO COMUM,4 CUMB/2 CAM,KG,21.57,25.34,28.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MORANGO FÊNIX,-,KG,25.0,30.0,35.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,NECTARINA,4A POR CALIBRE,KG,6.9,7.88,8.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,NÊSPERA,CUMBUCA,KG,30.0,35.0,40.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,NOZES IMP.,-,KG,50.0,54.11,58.52,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA DANJOU IMP.,120 - 150 FRUTOS,KG,7.69,7.84,7.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA DANJOU IMP.,80 - 110 FRUTOS,KG,8.41,8.68,8.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA ERCOLINI IMP.,-,KG,10.88,11.65,12.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA FORELLI IMP.,-,KG,10.85,11.83,12.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA HOSUI IMP.,-,KG,9.0,10.0,11.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,120 - 150 FRUTOS,KG,7.24,7.42,7.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,80 - 110 FRUTOS,KG,8.12,8.27,8.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA ROCHA IMP.,50 A 60 FRUTOS,KG,14.09,14.96,15.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA ROCHA IMP.,A GRANEL,KG,9.17,9.63,10.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA ROCHA NACIONAL,A,KG,14.0,14.5,15.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA WILLIAMS IMP.,120 - 150 FRUTOS,KG,8.83,9.08,9.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PERA WILLIAMS IMP.,80 - 110 FRUTOS,KG,9.66,10.05,10.37,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO DOURADO,CALIBRE 2,KG,5.0,5.17,5.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO DOURADO,CALIBRE 3,KG,5.5,5.67,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO DOURADO,CALIBRE 4,KG,6.0,6.33,6.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 2,KG,5.0,5.83,6.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 3,KG,6.67,7.0,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 4,KG,7.5,8.0,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 2,KG,3.86,4.18,4.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 3,KG,4.56,4.96,5.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 4,KG,5.41,5.88,6.31,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO IMP.,48 A 56 FRUTOS,KG,8.89,9.44,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 2,KG,5.1,5.34,5.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 3,KG,5.64,6.03,6.37,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 4,KG,6.37,6.94,7.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 2,KG,3.13,3.47,3.81,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 3,KG,3.81,4.14,4.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 4,KG,4.49,4.84,5.16,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PHYSALIS,-,KG,50.0,52.5,56.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PHYSALIS IMP. COLÔMBIA,-,KG,60.22,66.23,72.31,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PINHA,07 A 09 FRUTOS,KG,13.33,14.72,16.21,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PINHA,10 A 12 FRUTOS,KG,11.21,12.39,13.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PINHA,13 A 15 FRUTOS,KG,9.53,10.3,11.21,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PITAIA,-,KG,27.76,29.01,30.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,PITAIA IMP. COLÔMBIA,-,KG,52.83,56.13,59.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,QUINCAM,-,KG,7.5,7.8,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ROMÃ IMP.,-,KG,20.0,21.43,22.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,SERIGUELA,-,KG,23.13,25.63,28.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TÂMARA IMP.,-,KG,39.57,45.48,49.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TÂMARA IMP. ISRAEL,-,KG,40.0,50.0,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TAMARINDO,-,KG,26.54,28.89,30.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA DECOPOM,07 A 08 FRUTOS,KG,7.45,7.94,8.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA DECOPOM,09 A 10 FRUTOS,KG,6.25,6.74,7.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA DECOPOM,11 A 12 FRUTOS,KG,5.55,5.93,6.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA IMP.,-,KG,7.0,7.5,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA MURCOTE,03 A 04 DZ,KG,4.39,4.79,5.18,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA MURCOTE,05 A 06 DZ,KG,3.29,3.55,3.9,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA MURCOTE,08 A 10 DZ,KG,2.15,2.39,2.66,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,4.62,4.97,5.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,3.78,4.1,4.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,2.84,3.16,3.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA PONCÃ,02 A 04 DZ,KG,9.35,10.55,11.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA ARRA 15,-,KG,16.53,17.87,19.2,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,13.69,15.42,17.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA BENITAKA,A,KG,10.05,10.84,11.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA BENITAKA,B,KG,8.88,9.51,10.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA CLARA SEM SEMENTE,A,KG,13.96,14.72,15.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA CLARA SEM SEMENTE,B,KG,11.27,12.06,12.78,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA CRIMSON,A,KG,12.91,13.69,14.55,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA CRIMSON,B,KG,10.18,11.18,12.18,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA ISIS,-,KG,10.25,11.85,13.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA ITÁLIA,A,KG,10.15,10.81,11.48,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA ITÁLIA,B,KG,8.92,9.55,10.15,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA MOSCATO,-,KG,50.21,55.95,59.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA NIÁGARA,A,KG,10.35,11.17,11.88,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA NIÁGARA,B,KG,9.1,9.69,10.22,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA PASSA IMP.,-,KG,11.0,12.0,13.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA PRETA COM SEMENTE,-,KG,10.13,11.12,12.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA PRETA SEM SEMENTE,-,KG,16.25,16.88,17.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RED GLOBE,A,KG,18.01,18.77,19.51,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RED GLOBE,B,KG,15.51,16.77,18.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RED GLOBE IMP.,A,KG,17.66,18.29,18.91,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RED GLOBE IMP.,B,KG,16.32,16.71,17.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RUBI,A,KG,8.75,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RUBI,B,KG,6.25,6.88,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA THOMPSON,A,KG,13.15,13.89,14.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA THOMPSON,B,KG,11.18,11.89,12.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,11.01,12.5,14.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA VITÓRIA,A,KG,10.89,11.52,12.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA VITÓRIA,B,KG,9.51,10.13,10.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.27,14.28,15.4,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.33,6.74,7.14,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.67,5.5,6.33,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,2.7,2.95,3.2,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACATE MARGARIDA,BOCA 12 A 15,KG,2.23,2.47,2.7,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACAXI PÉROLA,08 FRUTOS,UN,6.09,6.58,7.09,1.8,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACAXI PÉROLA,10 FRUTOS,UN,4.41,4.92,5.42,1.4,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACAXI PÉROLA,12 FRUTOS,UN,3.21,3.54,3.84,1.0,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ACEROLA,-,KG,12.2,13.05,13.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA FLA,CALIBRE 2,KG,4.07,4.68,5.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA FLA,CALIBRE 3,KG,5.15,5.88,6.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA FLA,CALIBRE 4,KG,6.73,7.46,8.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA FORTUNE,CALIBRE 2,KG,6.74,7.57,8.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA FORTUNE,CALIBRE 3,KG,8.4,9.23,10.07,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA FORTUNE,CALIBRE 4,KG,10.09,10.92,11.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA IMP.,48 A 56 FRUTOS,KG,13.33,14.44,15.56,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA RUBI MEL,CALIBRE 2,KG,4.84,5.52,6.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA RUBI MEL,CALIBRE 3,KG,6.35,7.01,7.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA RUBI MEL,CALIBRE 4,KG,7.85,8.52,9.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMEIXA SECA IMP.,-,KG,24.0,26.0,28.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,AMORA,-,KG,35.22,38.37,41.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ATEMOIA,05 A 08 FRUTOS,KG,14.69,15.69,16.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ATEMOIA,09 A 12 FRUTOS,KG,11.49,12.49,13.2,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ATEMOIA,13 A 18 FRUTOS,KG,8.28,9.28,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA MAÇÃ,PRIMEIRA,KG,5.79,6.04,6.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA MAÇÃ,SEGUNDA,KG,5.02,5.28,5.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA NANICA,PRIMEIRA,KG,2.97,3.19,3.42,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA NANICA,SEGUNDA,KG,2.24,2.58,2.94,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA OURO VERDE,PRIMEIRA,KG,7.0,7.5,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA PRATA MG,PRIMEIRA,KG,5.63,5.88,6.13,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA PRATA MG,SEGUNDA,KG,4.42,4.92,5.42,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA PRATA SP,PRIMEIRA,KG,3.48,3.93,4.37,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA PRATA SP,SEGUNDA,KG,2.98,3.21,3.44,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA TERRA,PRIMEIRA,KG,5.22,5.49,5.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,BANANA TERRA,SEGUNDA,KG,4.78,5.0,5.22,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CACAU,-,KG,7.31,7.77,8.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CAJU,03 A 04 FRUTOS,KG,16.79,18.62,19.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CAJU,05 A 06 FRUTOS,KG,12.2,14.41,16.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CAQUI IMP.,-,KG,22.5,25.0,27.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CARAMBOLA,-,KG,17.25,19.14,20.9,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CASTANHA IMP.,-,KG,77.33,86.67,92.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CEREJA IMP.,A,KG,40.0,48.0,56.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,COCO VERDE,-,UN,2.28,2.69,3.01,2.5,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,CUPUAÇU,-,KG,6.67,7.34,8.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,FIGO,08 FRUTOS,KG,53.85,58.01,62.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,FIGO,10 FRUTOS,KG,37.77,45.2,52.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,FIGO SECO IMP.,-,KG,70.0,72.0,75.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,FOLHA DE UVA,-,CX,64.0,69.0,74.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,FRAMBOESA,-,KG,118.11,134.05,150.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GOIABA BRANCA,09 A 12 FRUTOS,KG,6.67,7.5,8.33,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GOIABA BRANCA,15 FRUTOS,KG,5.83,6.33,6.67,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GOIABA BRANCA,18 FRUTOS,KG,5.0,5.33,5.83,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GOIABA VERMELHA,09 A 12 FRUTOS,KG,6.42,6.86,7.17,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GOIABA VERMELHA,15 FRUTOS,KG,5.61,5.98,6.36,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GOIABA VERMELHA,18 FRUTOS,KG,4.58,5.1,5.56,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GRANADILLA IMP. COLÔMBIA,-,KG,47.81,51.4,55.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GRAPE-FRUIT IMP.,-,KG,6.29,6.8,7.31,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,GRAVIOLA,-,KG,10.2,11.11,12.07,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,JACA,-,KG,4.05,4.46,4.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,KIWI GOLD IMP.,44 A 48 FRUTOS,KG,37.75,39.67,41.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,KIWI IMP.,60 A 80 FRUTOS,KG,14.17,15.42,16.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA BAIA,02 A 03 DZ,KG,3.7,3.9,4.04,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA BAIA,04 A 05 DZ,KG,2.71,3.04,3.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA BAIA,06 A 07 DZ,KG,2.02,2.35,2.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA BAIA IMP.,-,KG,5.19,5.8,6.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA LIMA,09 A 12 DZ,KG,3.14,3.33,3.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA LIMA,13 A 15 DZ,KG,2.62,2.84,3.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA LIMA,16 A 21 DZ,KG,1.87,2.09,2.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA PERA,09 A 12 DZ,KG,2.16,2.31,2.41,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA PERA,13 A 15 DZ,KG,1.83,1.94,2.06,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA PERA,16 A 21 DZ,KG,1.32,1.48,1.63,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA SELETA,11 A 12 DZ,KG,3.56,3.72,3.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA SELETA,13 A 15 DZ,KG,2.85,3.09,3.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA SELETA,16 A 21 DZ,KG,1.94,2.39,2.84,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA VALÊNCIA,A (10/13 DZ),KG,2.08,2.29,2.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA VALÊNCIA,B (14/15 DZ),KG,1.67,1.88,2.08,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA VALÊNCIA,C (18/21 DZ),KG,1.25,1.46,1.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LARANJA VALÊNCIA IMP.,-,KG,5.38,5.92,6.46,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LICHIA,CUMBUCA,KG,41.35,45.47,49.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMA-DA-PÉRSIA,A (09/10 DZ),KG,3.19,3.31,3.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMA-DA-PÉRSIA,B (13/15 DZ),KG,2.68,2.81,2.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMA-DA-PÉRSIA,C (18/24 DZ),KG,2.06,2.27,2.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMÃO ROSA,-,KG,2.97,3.7,4.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMÃO SICILIANO,-,KG,4.77,5.32,5.8,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMÃO SICILIANO IMP.,-,KG,5.29,5.86,6.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMÃO TAITI,15 A 18 DZ,KG,8.15,8.58,9.0,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMÃO TAITI,21 A 27 DZ,KG,6.01,6.44,6.87,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,LIMÃO TAITI,ACIMA DE 31 DZ,KG,4.0,4.39,4.75,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ FUJI,110 A 135 FRUTOS,KG,6.72,6.99,7.22,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ FUJI,150 A 180 FRUTOS,KG,5.83,6.19,6.56,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ FUJI,80 A 100 FRUTOS,KG,7.33,7.67,8.03,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GALA,110 A 135 FRUTOS,KG,6.58,6.79,7.09,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GALA,150 A 180 FRUTOS,KG,5.78,6.08,6.39,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GALA,80 A 100 FRUTOS,KG,7.23,7.54,7.87,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GALA IMP.,120 A 150 FRUTOS,KG,7.38,7.52,7.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GALA IMP.,80 A 110 FRUTOS,KG,8.4,8.61,8.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GOLDEN IMP.,120 A 150 FRUTOS,KG,7.5,7.78,8.06,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GOLDEN IMP.,80 A 110 FRUTOS,KG,8.33,8.61,8.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GRANNY SMITH IMP.,120 A 150 FRUTOS,KG,8.48,8.73,8.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ GRANNY SMITH IMP.,80 A 110 FRUTOS,KG,9.44,9.86,10.29,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ PINK LADY IMP.,-,KG,7.05,7.75,8.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ RED IMP. ARGENTINA,120 A 150 FRUTOS,KG,9.23,9.56,9.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ RED IMP. ARGENTINA,80 A 110 FRUTOS,KG,11.02,11.71,12.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ RED IMP. CHILE,120 A 150 FRUTOS,KG,7.39,7.44,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ RED IMP. CHILE,80 A 110 FRUTOS,KG,8.33,8.89,9.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ RED IMP. ITÁLIA,120 A 150 FRUTOS,KG,8.41,8.75,9.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAÇÃ RED IMP. ITÁLIA,80 A 110 FRUTOS,KG,9.3,9.65,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAMÃO FORMOSA,05 A 09 FRUTOS,KG,6.91,7.39,7.87,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAMÃO FORMOSA,10 A 16 FRUTOS,KG,5.1,5.49,5.83,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAMÃO HAVAÍ,12 FRUTOS,KG,3.87,4.23,4.48,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAMÃO HAVAÍ,15 A 18 FRUTOS,KG,4.46,4.82,5.13,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAMÃO HAVAÍ,21 FRUTOS,KG,3.11,3.44,3.73,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MAMÃO HAVAÍ,24/28 FRUTOS,KG,2.34,2.67,2.96,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA BOURBON,-,KG,4.38,4.65,4.93,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA ESPADA,A,KG,3.52,3.98,4.31,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA HADEM,08 A 10 FRUTOS,KG,5.83,6.33,6.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA HADEM,12 FRUTOS,KG,5.5,5.67,5.83,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA HADEM,13 A 15 FRUTOS,KG,5.0,5.17,5.33,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA LOLITA,-,KG,4.37,4.82,5.39,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA PALMER,08 A 10 FRUTOS,KG,3.01,3.09,3.16,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA PALMER,12 FRUTOS,KG,2.83,2.87,2.93,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA PALMER,13 A 15 FRUTOS,KG,2.66,2.72,2.78,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA PALMER,18 FRUTOS,KG,2.53,2.58,2.64,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA ROSA,A,KG,4.16,4.62,4.94,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA TOMMY ATCKINS,08 A 10 FRUTOS,KG,3.68,3.8,3.9,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA TOMMY ATCKINS,12 FRUTOS,KG,3.34,3.46,3.58,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA TOMMY ATCKINS,13 A 15 FRUTOS,KG,3.04,3.19,3.31,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGA TOMMY ATCKINS,18 FRUTOS,KG,2.63,2.79,2.98,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MANGOSTIM,-,KG,80.0,90.0,100.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MARACUJÁ AZEDO,3A,KG,9.12,9.66,10.19,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MARACUJÁ AZEDO,4A,KG,10.41,10.72,10.99,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MARACUJÁ AZEDO,SUPER,KG,11.16,11.53,11.86,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MARACUJÁ DOCE,04 A 06 FRUTOS,KG,20.0,22.5,25.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MARACUJÁ DOCE,07 A 09 FRUTOS,KG,17.5,19.0,20.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MARACUJÁ DOCE,10 A 15 FRUTOS,KG,15.0,16.5,17.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.07,2.19,2.31,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,1.72,1.85,1.95,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.32,1.44,1.54,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELANCIA BABY,-,KG,3.51,3.86,4.23,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.83,3.96,4.06,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.57,3.66,3.76,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.34,3.41,3.48,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO AMARELO,ACIMA DE 13 FRUTOS,KG,3.09,3.21,3.31,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO GÁLIA,-,KG,5.45,6.01,6.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO ORANGE,03 A 04 FRUTOS,KG,9.86,10.36,10.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO ORANGE,05 A 06 FRUTOS,KG,9.03,9.5,9.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO ORANGE,07 A 08 FRUTOS,KG,8.05,8.48,9.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO PELE DE SAPO,06 A 08 FRUTOS,KG,3.94,4.27,4.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.54,3.77,3.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,2.86,3.19,3.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.56,5.89,6.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.42,8.89,9.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.07,7.17,7.65,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,4.18,5.04,5.91,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MIRTILO,-,KG,53.3,56.64,59.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MIRTILO IMP.,-,KG,74.64,79.15,83.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,25.01,29.41,32.73,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MORANGO COMUM,4 CUMB/2 CAM,KG,19.22,22.71,26.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,NECTARINA,3A POR CALIBRE,KG,5.19,5.67,6.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,NECTARINA,4A POR CALIBRE,KG,6.85,7.44,8.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,NECTARINA IMP.,48 A 56 FRUTOS,KG,13.75,15.0,16.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,NÊSPERA,CUMBUCA,KG,38.42,43.42,48.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,NOZES IMP.,-,KG,45.2,49.43,53.64,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA DANJOU IMP.,120 - 150 FRUTOS,KG,7.3,7.54,7.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA DANJOU IMP.,80 - 110 FRUTOS,KG,8.18,8.55,8.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA ERCOLINI IMP.,-,KG,9.85,10.88,11.91,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA FORELLI IMP.,-,KG,10.93,11.61,12.29,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA HOSUI IMP.,-,KG,10.73,11.59,12.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,120 - 150 FRUTOS,KG,7.28,7.4,7.52,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,80 - 110 FRUTOS,KG,7.91,8.13,8.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA ROCHA IMP.,50 A 60 FRUTOS,KG,13.25,14.15,15.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA ROCHA IMP.,A GRANEL,KG,9.44,10.07,10.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA WILLIAMS IMP.,120 - 150 FRUTOS,KG,9.31,9.6,9.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PERA WILLIAMS IMP.,80 - 110 FRUTOS,KG,10.34,10.72,11.08,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO DOURADO,CALIBRE 2,KG,4.87,5.12,5.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO DOURADO,CALIBRE 3,KG,5.48,5.98,6.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO DOURADO,CALIBRE 4,KG,6.32,7.02,7.64,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 2,KG,4.17,4.67,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 3,KG,5.0,5.83,6.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 4,KG,6.67,7.5,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 2,KG,4.39,4.78,5.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 3,KG,5.2,5.6,5.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 4,KG,6.08,6.58,6.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO IMP.,48 A 56 FRUTOS,KG,8.89,9.44,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 2,KG,4.71,5.13,5.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 3,KG,5.59,5.96,6.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 4,KG,6.39,6.97,7.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO NACIONAL,CALIBRE 4,KG,5.67,6.5,7.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 2,KG,3.98,4.4,4.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 3,KG,4.76,5.22,5.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 4,KG,5.61,6.13,6.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PHYSALIS IMP. COLÔMBIA,-,KG,58.0,62.11,66.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PINHA,07 A 09 FRUTOS,KG,13.33,14.68,16.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PINHA,10 A 12 FRUTOS,KG,11.13,12.35,13.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PINHA,13 A 15 FRUTOS,KG,9.47,10.25,11.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PITAIA,-,KG,28.12,29.44,30.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,PITAIA IMP. COLÔMBIA,-,KG,51.87,55.93,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ROMÃ IMP.,-,KG,20.71,22.35,24.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TÂMARA IMP. ISRAEL,-,KG,40.0,50.0,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TÂMARA IMP. TUNÍSIA,-,KG,16.0,17.0,18.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TAMARINDO,-,KG,26.54,28.89,30.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA DECOPOM,07 A 08 FRUTOS,KG,8.49,9.23,9.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA DECOPOM,09 A 10 FRUTOS,KG,6.87,7.62,8.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA DECOPOM,11 A 12 FRUTOS,KG,5.38,6.12,6.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA IMP.,-,KG,8.0,8.5,9.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA MURCOTE,03 A 04 DZ,KG,4.12,4.52,4.93,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA MURCOTE,05 A 06 DZ,KG,3.17,3.48,3.87,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA MURCOTE,08 A 10 DZ,KG,2.24,2.5,2.78,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,5.42,5.62,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,4.73,4.93,5.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,3.53,3.94,4.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA PONCÃ,02 A 04 DZ,KG,8.0,9.0,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA ARRA 15,-,KG,15.74,16.9,18.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,15.23,16.63,18.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA BENITAKA,A,KG,11.18,11.82,12.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA BENITAKA,B,KG,9.78,10.49,11.18,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA CLARA SEM SEMENTE,A,KG,13.12,13.97,14.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA CLARA SEM SEMENTE,B,KG,10.37,11.23,11.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA CRIMSON,A,KG,10.26,11.28,12.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA CRIMSON,B,KG,8.26,9.27,10.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA ISIS,-,KG,9.34,10.55,11.73,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA ITÁLIA,A,KG,11.31,11.97,12.62,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA ITÁLIA,B,KG,8.85,10.08,11.31,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA MOSCATO,-,KG,42.0,44.0,46.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA NACIONAL,-,KG,12.0,13.0,14.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA NIÁGARA,A,KG,10.04,10.92,11.78,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA NIÁGARA,B,KG,8.67,9.36,10.04,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA PASSA IMP.,-,KG,11.0,12.0,13.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA PRETA COM SEMENTE,-,KG,10.31,11.42,12.51,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RED GLOBE,A,KG,16.47,17.43,18.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RED GLOBE,B,KG,14.07,15.27,16.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RED GLOBE IMP.,A,KG,20.0,20.63,21.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RED GLOBE IMP.,B,KG,18.5,18.5,18.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RUBI,A,KG,8.76,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RUBI,B,KG,6.26,6.88,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA THOMPSON,A,KG,12.2,13.1,14.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA THOMPSON,B,KG,10.22,11.11,12.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,13.5,14.8,16.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA VITÓRIA,A,KG,11.83,12.66,13.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA VITÓRIA,B,KG,10.04,10.85,11.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.04,14.21,15.36,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,5.7,5.94,6.2,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.84,5.12,5.41,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE GEADA,BOCA 08 A 11,KG,4.0,4.25,4.5,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE GEADA,BOCA 12 A 15,KG,3.0,3.5,4.0,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,2.85,3.04,3.27,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE MARGARIDA,BOCA 12 A 15,KG,2.32,2.59,2.85,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACAXI PÉROLA,08 FRUTOS,UN,6.76,7.27,7.75,1.8,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACAXI PÉROLA,10 FRUTOS,UN,4.85,5.33,5.76,1.4,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACAXI PÉROLA,12 FRUTOS,UN,3.32,3.63,3.9,1.0,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ACEROLA,-,KG,14.65,16.39,18.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMEIXA FORTUNE,CALIBRE 2,KG,6.66,7.48,8.29,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMEIXA FORTUNE,CALIBRE 3,KG,8.29,9.07,9.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMEIXA FORTUNE,CALIBRE 4,KG,9.87,10.66,11.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMEIXA RUBI MEL,CALIBRE 2,KG,4.81,5.56,6.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMEIXA RUBI MEL,CALIBRE 3,KG,6.25,6.73,7.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMEIXA RUBI MEL,CALIBRE 4,KG,7.34,7.95,8.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMEIXA SECA IMP.,-,KG,24.85,27.72,29.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,AMORA,-,KG,35.79,38.97,42.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ATEMOIA,05 A 08 FRUTOS,KG,14.68,15.62,16.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ATEMOIA,09 A 12 FRUTOS,KG,12.85,13.92,14.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ATEMOIA,13 A 18 FRUTOS,KG,10.68,11.62,12.85,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA MAÇÃ,PRIMEIRA,KG,7.36,7.63,7.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA MAÇÃ,SEGUNDA,KG,6.5,6.91,7.29,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA NANICA,PRIMEIRA,KG,2.87,3.13,3.38,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA NANICA,SEGUNDA,KG,2.38,2.62,2.86,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA PRATA MG,PRIMEIRA,KG,5.49,5.74,5.99,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA PRATA MG,SEGUNDA,KG,4.5,4.87,5.24,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA PRATA SP,PRIMEIRA,KG,4.12,4.37,4.61,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA PRATA SP,SEGUNDA,KG,3.24,3.6,3.95,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA TERRA,PRIMEIRA,KG,6.0,6.26,6.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,BANANA TERRA,SEGUNDA,KG,5.5,5.75,6.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,CACAU,-,KG,8.33,9.17,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,CAJU,03 A 04 FRUTOS,KG,17.58,19.47,20.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,CAJU,05 A 06 FRUTOS,KG,14.01,15.88,17.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,CAQUI IMP.,-,KG,20.0,25.0,27.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,CARAMBOLA,-,KG,23.37,26.2,29.04,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,CEREJA IMP.,A,KG,40.0,48.75,57.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,COCO VERDE,-,UN,2.04,2.53,2.99,2.5,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,CUPUAÇU,-,KG,7.88,8.72,9.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,FIGO,08 FRUTOS,KG,45.32,49.96,54.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,FIGO,10 FRUTOS,KG,36.24,40.79,45.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,FIGO SECO IMP.,-,KG,70.0,72.0,75.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,FRAMBOESA,-,KG,85.45,90.46,95.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GOIABA BRANCA,09 A 12 FRUTOS,KG,6.29,6.74,7.13,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GOIABA BRANCA,15 FRUTOS,KG,5.6,5.99,6.29,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GOIABA BRANCA,18 FRUTOS,KG,5.15,5.37,5.55,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GOIABA VERMELHA,09 A 12 FRUTOS,KG,6.49,7.07,7.52,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GOIABA VERMELHA,15 FRUTOS,KG,5.49,6.02,6.48,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GOIABA VERMELHA,18 FRUTOS,KG,4.66,5.07,5.46,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GRANADILLA IMP. COLÔMBIA,-,KG,45.12,49.21,53.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GRAPE-FRUIT,-,KG,5.47,5.8,6.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GRAPE-FRUIT IMP.,-,KG,5.37,6.04,6.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,GRAVIOLA,-,KG,10.26,11.23,12.2,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,JACA,-,KG,3.5,3.91,4.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,KIWI GOLD IMP.,44 A 48 FRUTOS,KG,37.68,39.68,41.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,KIWI IMP.,60 A 80 FRUTOS,KG,17.78,18.33,18.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA BAIA,02 A 03 DZ,KG,3.79,4.11,4.37,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA BAIA,04 A 05 DZ,KG,3.18,3.43,3.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA BAIA,06 A 07 DZ,KG,2.34,2.69,3.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA BAIA IMP.,-,KG,9.45,9.87,10.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA LIMA,09 A 12 DZ,KG,3.22,3.45,3.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA LIMA,13 A 15 DZ,KG,2.62,2.85,3.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA LIMA,16 A 21 DZ,KG,1.99,2.21,2.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA PERA,09 A 12 DZ,KG,2.02,2.21,2.36,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA PERA,13 A 15 DZ,KG,1.65,1.81,1.96,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA PERA,16 A 21 DZ,KG,1.27,1.43,1.55,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA SELETA,11 A 12 DZ,KG,3.36,3.6,3.84,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA SELETA,13 A 15 DZ,KG,2.87,3.1,3.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA SELETA,16 A 21 DZ,KG,2.36,2.6,2.84,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA VALÊNCIA,A (10/13 DZ),KG,2.18,2.4,2.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA VALÊNCIA,B (14/15 DZ),KG,1.59,1.8,2.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA VALÊNCIA,C (18/21 DZ),KG,1.16,1.27,1.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LARANJA VALÊNCIA IMP.,-,KG,5.5,5.94,6.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LICHIA,CUMBUCA,KG,32.65,40.52,48.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMA-DA-PÉRSIA,A (09/10 DZ),KG,3.4,3.68,3.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMA-DA-PÉRSIA,B (13/15 DZ),KG,2.81,3.04,3.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMA-DA-PÉRSIA,C (18/24 DZ),KG,2.25,2.54,2.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMÃO ROSA,-,KG,3.21,4.02,4.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMÃO SICILIANO,-,KG,4.79,5.42,6.07,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMÃO SICILIANO IMP.,-,KG,6.67,7.09,7.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMÃO TAITI,15 A 18 DZ,KG,7.37,7.68,7.98,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMÃO TAITI,21 A 27 DZ,KG,5.66,5.96,6.28,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,LIMÃO TAITI,ACIMA DE 31 DZ,KG,3.48,3.65,3.82,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ FUJI,110 A 135 FRUTOS,KG,7.62,7.94,8.25,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ FUJI,150 A 180 FRUTOS,KG,6.89,7.22,7.53,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ FUJI,80 A 100 FRUTOS,KG,8.25,8.55,8.86,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GALA,110 A 135 FRUTOS,KG,6.91,7.15,7.39,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GALA,150 A 180 FRUTOS,KG,6.18,6.52,6.85,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GALA,80 A 100 FRUTOS,KG,7.39,7.65,7.88,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GALA IMP.,120 A 150 FRUTOS,KG,7.41,7.97,8.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GALA IMP.,80 A 110 FRUTOS,KG,8.53,8.9,9.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GOLDEN IMP.,120 A 150 FRUTOS,KG,11.67,11.94,12.22,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GOLDEN IMP.,80 A 110 FRUTOS,KG,12.78,13.06,13.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GRANNY SMITH IMP.,120 A 150 FRUTOS,KG,8.33,8.46,8.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ GRANNY SMITH IMP.,80 A 110 FRUTOS,KG,9.25,9.67,10.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ PINK LADY IMP.,-,KG,6.81,7.55,8.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ RED IMP. ARGENTINA,120 A 150 FRUTOS,KG,10.8,11.17,11.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ RED IMP. ARGENTINA,80 A 110 FRUTOS,KG,11.97,12.5,13.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ RED IMP. CHILE,120 A 150 FRUTOS,KG,8.06,8.33,8.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ RED IMP. CHILE,80 A 110 FRUTOS,KG,8.89,9.17,9.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ RED IMP. ITÁLIA,120 A 150 FRUTOS,KG,8.45,8.89,9.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAÇÃ RED IMP. ITÁLIA,80 A 110 FRUTOS,KG,9.44,9.72,10.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAMÃO FORMOSA,05 A 09 FRUTOS,KG,7.06,7.48,7.92,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAMÃO FORMOSA,10 A 16 FRUTOS,KG,5.42,5.8,6.18,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAMÃO HAVAÍ,12 FRUTOS,KG,3.51,3.81,4.06,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAMÃO HAVAÍ,15 A 18 FRUTOS,KG,4.27,4.56,4.84,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAMÃO HAVAÍ,21 FRUTOS,KG,2.88,3.14,3.4,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MAMÃO HAVAÍ,24/28 FRUTOS,KG,2.12,2.39,2.64,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA BOURBON,-,KG,5.19,5.68,6.2,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA ESPADA,A,KG,5.26,5.77,6.15,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA LOLITA,-,KG,4.69,5.18,5.54,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA OURO,A,KG,5.0,5.83,6.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA PALMER,08 A 10 FRUTOS,KG,3.06,3.14,3.24,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA PALMER,12 FRUTOS,KG,2.77,2.88,2.96,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA PALMER,13 A 15 FRUTOS,KG,2.57,2.68,2.76,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA PALMER,18 FRUTOS,KG,2.26,2.39,2.46,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA ROSA,A,KG,5.83,6.33,6.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA TOMMY ATCKINS,08 A 10 FRUTOS,KG,3.61,3.78,3.93,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA TOMMY ATCKINS,12 FRUTOS,KG,3.35,3.45,3.55,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA TOMMY ATCKINS,13 A 15 FRUTOS,KG,3.08,3.2,3.3,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGA TOMMY ATCKINS,18 FRUTOS,KG,2.67,2.87,3.05,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MANGOSTIM,-,KG,80.0,90.0,100.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MARACUJÁ AZEDO,3A,KG,9.41,9.81,10.2,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MARACUJÁ AZEDO,4A,KG,10.45,10.77,11.07,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MARACUJÁ AZEDO,SUPER,KG,11.24,11.63,11.94,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MARACUJÁ DOCE,04 A 06 FRUTOS,KG,22.91,24.13,25.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MARACUJÁ DOCE,07 A 09 FRUTOS,KG,20.69,21.54,22.77,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MARACUJÁ DOCE,10 A 15 FRUTOS,KG,18.59,19.82,20.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.16,2.28,2.39,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,1.75,1.86,1.94,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.3,1.4,1.5,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELANCIA BABY,-,KG,4.28,4.61,4.94,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.94,4.08,4.18,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.69,3.79,3.92,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.4,3.54,3.66,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO AMARELO,ACIMA DE 13 FRUTOS,KG,3.09,3.23,3.38,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO GÁLIA,-,KG,5.85,6.41,6.95,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO ORANGE,03 A 04 FRUTOS,KG,9.83,10.31,10.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO ORANGE,05 A 06 FRUTOS,KG,9.0,9.47,9.82,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO ORANGE,07 A 08 FRUTOS,KG,8.07,8.61,9.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO PELE DE SAPO,06 A 08 FRUTOS,KG,3.78,3.91,4.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.51,3.64,3.73,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.14,3.36,3.51,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.58,6.08,6.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.76,9.26,9.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.04,7.49,7.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,5.41,5.84,6.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MIRTILO,-,KG,53.33,56.67,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MIRTILO IMP.,-,KG,74.12,78.51,82.65,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,24.1,27.52,31.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MORANGO COMUM,4 CUMB/2 CAM,KG,19.82,25.3,30.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,NECTARINA,3A POR CALIBRE,KG,6.25,6.92,7.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,NECTARINA,4A POR CALIBRE,KG,8.97,9.81,10.64,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,NOZES IMP.,-,KG,48.94,51.53,54.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA DANJOU IMP.,120 - 150 FRUTOS,KG,7.46,7.72,7.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA DANJOU IMP.,80 - 110 FRUTOS,KG,8.28,8.57,8.84,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA ERCOLINI IMP.,-,KG,10.6,11.5,12.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA FORELLI IMP.,-,KG,10.41,11.17,11.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA HOSUI IMP.,-,KG,10.0,10.63,11.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,120 - 150 FRUTOS,KG,6.89,7.06,7.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,80 - 110 FRUTOS,KG,7.64,7.88,8.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA ROCHA IMP.,50 A 60 FRUTOS,KG,12.74,13.62,14.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA ROCHA IMP.,A GRANEL,KG,9.68,10.54,11.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA WILLIAMS IMP.,120 - 150 FRUTOS,KG,9.77,9.89,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PERA WILLIAMS IMP.,80 - 110 FRUTOS,KG,10.55,11.11,11.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO DOURADO,CALIBRE 2,KG,5.0,5.33,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO DOURADO,CALIBRE 3,KG,5.83,6.33,6.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO DOURADO,CALIBRE 4,KG,6.67,7.5,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 2,KG,5.0,5.33,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 3,KG,5.83,6.33,6.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO ERAGIL,CALIBRE 4,KG,6.67,7.5,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 2,KG,4.72,4.92,5.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 3,KG,5.16,5.6,5.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 4,KG,5.93,6.47,6.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 2,KG,5.03,5.44,5.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 3,KG,6.16,6.65,7.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 4,KG,7.0,7.53,8.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO TROPIC BEAUTY,CALIBRE 2,KG,5.19,5.61,6.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO TROPIC BEAUTY,CALIBRE 3,KG,6.11,6.7,7.2,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PÊSSEGO TROPIC BEAUTY,CALIBRE 4,KG,7.2,7.99,8.78,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PHYSALIS IMP. COLÔMBIA,-,KG,57.61,61.72,66.31,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PINHA,07 A 09 FRUTOS,KG,12.49,13.69,14.72,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PINHA,10 A 12 FRUTOS,KG,10.76,11.46,11.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PINHA,13 A 15 FRUTOS,KG,8.36,9.16,9.73,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PITAIA,-,KG,24.73,26.36,27.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,PITAIA IMP. COLÔMBIA,-,KG,49.57,52.9,56.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ROMÃ,-,KG,16.67,18.33,20.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ROMÃ IMP.,-,KG,19.11,21.61,24.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TÂMARA IMP. ISRAEL,-,KG,40.0,50.0,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TÂMARA IMP. TUNÍSIA,-,KG,15.47,16.62,17.77,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TAMARINDO,-,KG,27.56,29.86,32.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TANGERINA IMP.,-,KG,8.0,8.5,9.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TANGERINA MURCOTE,03 A 04 DZ,KG,4.54,4.86,5.16,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TANGERINA MURCOTE,05 A 06 DZ,KG,3.64,3.9,4.14,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TANGERINA MURCOTE,08 A 10 DZ,KG,2.7,2.95,3.23,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,5.42,5.89,6.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,3.84,4.31,4.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,2.71,2.92,3.22,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA ARRA 15,-,KG,16.67,18.04,19.21,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,14.21,15.2,15.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA BENITAKA,A,KG,11.24,11.94,12.64,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA BENITAKA,B,KG,9.85,10.55,11.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA CLARA SEM SEMENTE,A,KG,12.59,13.26,13.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA CLARA SEM SEMENTE,B,KG,10.77,11.68,12.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA ISIS,-,KG,8.64,9.26,9.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA ITÁLIA,A,KG,9.38,10.04,10.68,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA ITÁLIA,B,KG,8.09,8.73,9.38,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA MELODIA,-,KG,12.0,14.0,16.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA MOSCATO,-,KG,44.03,46.26,48.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA NIÁGARA,A,KG,10.21,10.95,11.72,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA NIÁGARA,B,KG,8.71,9.48,10.21,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA PASSA IMP.,-,KG,11.08,12.06,13.04,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA PRETA COM SEMENTE,-,KG,10.1,11.18,12.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RED GLOBE,A,KG,16.22,17.23,18.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RED GLOBE,B,KG,12.96,13.84,14.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RED GLOBE IMP.,A,KG,18.25,18.5,18.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RED GLOBE IMP.,B,KG,17.63,17.88,18.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RUBI,A,KG,8.75,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RUBI,B,KG,7.5,8.13,8.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA THOMPSON,A,KG,12.36,12.86,13.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA THOMPSON,B,KG,10.27,11.2,12.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA VITÓRIA,A,KG,11.6,12.35,13.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA VITÓRIA,B,KG,9.67,10.61,11.55,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.03,14.12,15.23,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,5.44,5.74,6.04,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.48,4.83,5.18,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE GEADA,BOCA 08 A 11,KG,4.0,4.25,4.5,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE GEADA,BOCA 12 A 15,KG,3.0,3.5,4.0,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,2.84,3.1,3.37,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE MARGARIDA,BOCA 12 A 15,KG,2.32,2.57,2.84,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACAXI PÉROLA,08 FRUTOS,UN,6.95,7.43,7.94,1.8,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACAXI PÉROLA,10 FRUTOS,UN,5.07,5.54,6.0,1.4,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACAXI PÉROLA,12 FRUTOS,UN,3.54,3.84,4.09,1.0,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ACEROLA,-,KG,13.63,15.11,16.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA FORTUNE,CALIBRE 2,KG,6.62,7.45,8.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA FORTUNE,CALIBRE 3,KG,8.24,9.02,9.8,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA FORTUNE,CALIBRE 4,KG,9.8,10.59,11.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA IMP.,48 A 56 FRUTOS,KG,8.89,10.0,11.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA RUBI MEL,CALIBRE 2,KG,4.89,5.68,6.46,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA RUBI MEL,CALIBRE 3,KG,6.46,6.89,7.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA RUBI MEL,CALIBRE 4,KG,7.47,8.03,8.46,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMEIXA SECA IMP.,-,KG,25.0,28.0,30.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,AMORA,-,KG,36.61,39.28,42.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ATEMOIA,05 A 08 FRUTOS,KG,12.53,13.59,14.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ATEMOIA,09 A 12 FRUTOS,KG,10.43,11.2,12.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ATEMOIA,13 A 18 FRUTOS,KG,6.85,8.47,10.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA MAÇÃ,PRIMEIRA,KG,7.54,7.8,8.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA MAÇÃ,SEGUNDA,KG,6.57,7.05,7.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA NANICA,PRIMEIRA,KG,2.82,3.06,3.3,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA NANICA,SEGUNDA,KG,2.34,2.56,2.8,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA PRATA MG,PRIMEIRA,KG,4.84,5.27,5.7,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA PRATA MG,SEGUNDA,KG,3.77,4.27,4.77,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA PRATA SP,PRIMEIRA,KG,4.12,4.36,4.61,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA PRATA SP,SEGUNDA,KG,3.21,3.59,3.96,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA TERRA,PRIMEIRA,KG,5.75,6.04,6.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,BANANA TERRA,SEGUNDA,KG,5.11,5.39,5.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,CACAU,-,KG,7.43,8.24,9.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,CAJU,03 A 04 FRUTOS,KG,19.59,21.85,23.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,CAJU,05 A 06 FRUTOS,KG,15.43,16.88,18.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,CAQUI IMP.,-,KG,20.0,25.0,27.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,CARAMBOLA,-,KG,22.06,26.35,30.65,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,CEREJA IMP.,A,KG,29.15,38.73,48.64,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,COCO VERDE,-,UN,2.09,2.53,3.0,2.5,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,CUPUAÇU,-,KG,9.84,10.68,11.52,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,DAMASCO SECO IMP.,-,KG,70.0,72.0,75.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,FIGO,08 FRUTOS,KG,38.84,43.31,47.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,FIGO,10 FRUTOS,KG,30.0,34.34,38.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,FIGO SECO IMP.,-,KG,70.0,72.0,75.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,FRAMBOESA,-,KG,83.47,90.0,96.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GOIABA BRANCA,09 A 12 FRUTOS,KG,6.4,6.86,7.24,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GOIABA BRANCA,15 FRUTOS,KG,5.7,6.07,6.4,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GOIABA BRANCA,18 FRUTOS,KG,5.21,5.44,5.66,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GOIABA VERMELHA,09 A 12 FRUTOS,KG,6.78,7.26,7.58,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GOIABA VERMELHA,15 FRUTOS,KG,6.0,6.39,6.78,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GOIABA VERMELHA,18 FRUTOS,KG,5.14,5.57,5.99,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GRANADILLA IMP. COLÔMBIA,-,KG,41.57,48.26,54.95,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GRAPE-FRUIT,-,KG,5.87,6.4,6.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GRAPE-FRUIT IMP.,-,KG,4.49,5.39,6.29,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,GRAVIOLA,-,KG,10.18,11.09,11.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,JACA,-,KG,3.21,3.68,4.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,KIWI GOLD IMP.,44 A 48 FRUTOS,KG,40.67,42.66,44.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,KIWI IMP.,60 A 80 FRUTOS,KG,18.89,20.0,21.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA BAIA,02 A 03 DZ,KG,3.81,4.12,4.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA BAIA,04 A 05 DZ,KG,3.21,3.48,3.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA BAIA,06 A 07 DZ,KG,2.39,2.74,3.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA BAIA IMP.,-,KG,7.87,8.27,8.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA LIMA,09 A 12 DZ,KG,3.13,3.37,3.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA LIMA,13 A 15 DZ,KG,2.56,2.77,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA LIMA,16 A 21 DZ,KG,1.94,2.13,2.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA PERA,09 A 12 DZ,KG,2.03,2.2,2.37,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA PERA,13 A 15 DZ,KG,1.68,1.81,1.97,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA PERA,16 A 21 DZ,KG,1.29,1.41,1.54,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA SELETA,11 A 12 DZ,KG,3.49,3.74,3.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA SELETA,13 A 15 DZ,KG,2.99,3.24,3.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA SELETA,16 A 21 DZ,KG,2.49,2.74,2.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA VALÊNCIA,A (10/13 DZ),KG,2.6,2.8,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA VALÊNCIA,B (14/15 DZ),KG,2.1,2.3,2.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA VALÊNCIA,C (18/21 DZ),KG,1.6,1.8,2.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LARANJA VALÊNCIA IMP.,-,KG,5.24,5.73,6.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LICHIA,CUMBUCA,KG,35.25,39.97,44.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMA-DA-PÉRSIA,A (09/10 DZ),KG,3.37,3.65,3.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMA-DA-PÉRSIA,B (13/15 DZ),KG,2.76,2.99,3.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMA-DA-PÉRSIA,C (18/24 DZ),KG,2.18,2.46,2.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMÃO ROSA,-,KG,4.1,4.5,4.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMÃO SICILIANO,-,KG,4.22,4.77,5.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMÃO SICILIANO IMP.,-,KG,6.67,7.33,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMÃO TAITI,15 A 18 DZ,KG,7.07,7.45,7.84,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMÃO TAITI,21 A 27 DZ,KG,5.11,5.49,5.88,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,LIMÃO TAITI,ACIMA DE 31 DZ,KG,3.29,3.63,3.91,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ FUJI,110 A 135 FRUTOS,KG,7.41,7.75,8.1,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ FUJI,150 A 180 FRUTOS,KG,6.59,6.95,7.31,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ FUJI,80 A 100 FRUTOS,KG,8.1,8.4,8.69,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ GALA,110 A 135 FRUTOS,KG,6.83,7.06,7.35,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ GALA,150 A 180 FRUTOS,KG,5.92,6.34,6.79,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ GALA,80 A 100 FRUTOS,KG,7.35,7.57,7.82,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ GALA IMP.,120 A 150 FRUTOS,KG,7.93,8.26,8.6,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ GALA IMP.,80 A 110 FRUTOS,KG,8.62,8.89,9.17,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ GRANNY SMITH IMP.,120 A 150 FRUTOS,KG,8.49,8.56,8.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ GRANNY SMITH IMP.,80 A 110 FRUTOS,KG,9.45,9.77,10.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ PINK LADY IMP.,-,KG,8.3,8.66,9.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ RED IMP. ARGENTINA,120 A 150 FRUTOS,KG,10.41,10.88,11.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ RED IMP. ARGENTINA,80 A 110 FRUTOS,KG,12.33,13.12,13.91,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ RED IMP. CHILE,120 A 150 FRUTOS,KG,8.27,8.44,8.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ RED IMP. CHILE,80 A 110 FRUTOS,KG,9.16,9.44,9.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ RED IMP. ITÁLIA,120 A 150 FRUTOS,KG,8.28,8.59,8.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAÇÃ RED IMP. ITÁLIA,80 A 110 FRUTOS,KG,9.31,9.58,9.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAMÃO FORMOSA,05 A 09 FRUTOS,KG,6.67,7.06,7.41,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAMÃO FORMOSA,10 A 16 FRUTOS,KG,5.06,5.42,5.74,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAMÃO HAVAÍ,12 FRUTOS,KG,3.58,3.85,4.1,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAMÃO HAVAÍ,15 A 18 FRUTOS,KG,4.37,4.65,4.9,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAMÃO HAVAÍ,21 FRUTOS,KG,2.9,3.17,3.43,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MAMÃO HAVAÍ,24/28 FRUTOS,KG,2.12,2.38,2.63,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA BOURBON,-,KG,6.83,7.36,7.89,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA ESPADA,A,KG,6.08,6.84,7.6,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA LOLITA,-,KG,4.81,5.31,5.66,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA OURO,A,KG,5.0,5.83,6.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA PALMER,08 A 10 FRUTOS,KG,3.41,3.52,3.63,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA PALMER,12 FRUTOS,KG,3.09,3.19,3.3,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA PALMER,13 A 15 FRUTOS,KG,2.82,2.94,3.08,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA PALMER,18 FRUTOS,KG,2.51,2.63,2.73,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA ROSA,A,KG,4.62,5.31,5.92,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA SHELLY,-,KG,5.83,6.67,7.5,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA TOMMY ATCKINS,08 A 10 FRUTOS,KG,3.56,3.72,3.86,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA TOMMY ATCKINS,12 FRUTOS,KG,3.24,3.37,3.47,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA TOMMY ATCKINS,13 A 15 FRUTOS,KG,2.96,3.07,3.2,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGA TOMMY ATCKINS,18 FRUTOS,KG,2.56,2.71,2.86,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MANGOSTIM,-,KG,80.0,90.0,100.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MARACUJÁ AZEDO,3A,KG,9.02,9.47,9.9,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MARACUJÁ AZEDO,4A,KG,10.11,10.43,10.78,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MARACUJÁ AZEDO,SUPER,KG,10.91,11.29,11.65,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MARACUJÁ DOCE,04 A 06 FRUTOS,KG,24.0,24.5,25.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MARACUJÁ DOCE,07 A 09 FRUTOS,KG,22.5,23.0,23.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MARACUJÁ DOCE,10 A 15 FRUTOS,KG,21.5,22.0,22.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.47,2.61,2.75,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,2.02,2.14,2.23,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.57,1.65,1.76,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELANCIA BABY,-,KG,4.15,4.49,4.85,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.7,3.84,3.94,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.4,3.54,3.68,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.12,3.25,3.39,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO AMARELO,ACIMA DE 13 FRUTOS,KG,2.81,2.93,3.09,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO GÁLIA,-,KG,6.16,6.73,7.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO ORANGE,03 A 04 FRUTOS,KG,9.49,9.85,10.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO ORANGE,05 A 06 FRUTOS,KG,8.8,9.16,9.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO ORANGE,07 A 08 FRUTOS,KG,8.19,8.54,8.8,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO PELE DE SAPO,06 A 08 FRUTOS,KG,3.77,3.87,3.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.49,3.61,3.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.1,3.34,3.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.0,5.5,6.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.59,9.11,9.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,6.93,7.4,7.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,5.42,5.85,6.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MIRTILO IMP.,-,KG,62.5,70.6,77.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,20.24,25.1,29.9,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MORANGO COMUM,4 CUMB/ 1 CAM,KG,14.0,16.0,18.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MORANGO COMUM,4 CUMB/2 CAM,KG,18.69,22.54,26.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,NECTARINA,3A POR CALIBRE,KG,8.43,9.23,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,NECTARINA,4A POR CALIBRE,KG,10.92,11.7,12.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,NOZES IMP.,-,KG,45.0,50.0,55.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA DANJOU IMP.,120 - 150 FRUTOS,KG,7.43,7.71,7.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA DANJOU IMP.,80 - 110 FRUTOS,KG,8.28,8.54,8.81,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA ERCOLINI IMP.,-,KG,10.58,11.56,12.52,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA FORELLI IMP.,-,KG,10.65,11.37,12.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA HOSUI IMP.,-,KG,10.24,10.86,11.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,120 - 150 FRUTOS,KG,6.83,6.99,7.12,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,80 - 110 FRUTOS,KG,7.63,7.84,8.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA RED BARTLETT IMP.,80 - 110 FRUTOS,KG,11.67,12.22,12.78,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA ROCHA IMP.,50 A 60 FRUTOS,KG,12.84,13.74,14.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA ROCHA IMP.,A GRANEL,KG,9.42,10.32,11.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA WILLIAMS IMP.,120 - 150 FRUTOS,KG,8.56,8.96,9.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PERA WILLIAMS IMP.,80 - 110 FRUTOS,KG,9.77,10.21,10.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO DOURADO,CALIBRE 2,KG,5.0,5.33,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO DOURADO,CALIBRE 3,KG,5.83,6.33,6.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO DOURADO,CALIBRE 4,KG,6.67,7.5,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 2,KG,4.22,4.39,4.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 3,KG,4.93,5.37,5.72,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 4,KG,5.94,6.4,6.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 2,KG,4.2,4.61,4.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 3,KG,5.38,5.87,6.22,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 4,KG,6.58,7.0,7.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO TROPIC BEAUTY,CALIBRE 2,KG,5.27,5.69,6.16,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO TROPIC BEAUTY,CALIBRE 3,KG,6.16,6.79,7.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PÊSSEGO TROPIC BEAUTY,CALIBRE 4,KG,7.33,8.14,8.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PHYSALIS IMP. COLÔMBIA,-,KG,56.25,62.5,68.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PINHA,07 A 09 FRUTOS,KG,12.92,14.1,15.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PINHA,10 A 12 FRUTOS,KG,10.9,11.75,12.56,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PINHA,13 A 15 FRUTOS,KG,8.33,9.33,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PITAIA,-,KG,23.33,25.1,26.88,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,PITAIA IMP. COLÔMBIA,-,KG,46.75,52.59,57.16,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ROMÃ,-,KG,13.33,15.0,16.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ROMÃ IMP.,-,KG,20.78,22.28,23.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TÂMARA IMP. ISRAEL,-,KG,40.0,50.0,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TÂMARA IMP. TUNÍSIA,-,KG,18.37,20.36,22.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TAMARINDO,-,KG,31.7,35.03,38.46,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA DECOPOM,07 A 08 FRUTOS,KG,5.75,6.0,6.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA DECOPOM,09 A 10 FRUTOS,KG,5.0,5.25,5.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA DECOPOM,11 A 12 FRUTOS,KG,4.5,4.75,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA IMP.,-,KG,8.0,8.5,9.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA MURCOTE,03 A 04 DZ,KG,4.55,4.86,5.16,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA MURCOTE,05 A 06 DZ,KG,3.64,3.91,4.16,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA MURCOTE,08 A 10 DZ,KG,2.7,2.95,3.24,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,4.72,5.16,5.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,3.49,3.93,4.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,2.57,2.8,3.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA ARRA 15,-,KG,17.79,18.85,19.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,12.58,13.46,13.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA BENITAKA,A,KG,11.13,11.82,12.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA BENITAKA,B,KG,9.72,10.39,11.04,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA BRASIL,A,KG,11.25,11.88,12.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA BRASIL,B,KG,10.0,10.63,11.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA CLARA SEM SEMENTE,A,KG,13.2,13.66,14.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA CLARA SEM SEMENTE,B,KG,11.51,12.35,13.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA ISIS,-,KG,9.99,11.2,12.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA ITÁLIA,A,KG,12.76,13.38,14.03,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA ITÁLIA,B,KG,11.99,12.63,12.86,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA MELODIA,-,KG,12.0,14.0,16.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA MOSCATO,-,KG,43.57,45.81,48.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA NIÁGARA,A,KG,10.65,11.61,12.55,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA NIÁGARA,B,KG,9.05,9.85,10.65,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA PASSA IMP.,-,KG,11.04,12.05,13.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA PRETA COM SEMENTE,-,KG,10.57,11.75,12.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA RED GLOBE IMP.,A,KG,17.2,17.65,18.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA RED GLOBE IMP.,B,KG,15.59,16.36,17.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA RUBI,A,KG,8.76,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA RUBI,B,KG,7.5,8.14,8.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA THOMPSON,A,KG,13.13,13.88,14.72,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA THOMPSON,B,KG,11.05,12.03,12.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,14.24,14.73,15.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA VITÓRIA,A,KG,11.22,11.91,12.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA VITÓRIA,B,KG,9.55,10.21,10.85,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,11.93,14.03,16.13,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.02,6.27,6.49,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,5.07,5.21,5.33,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,3.01,3.25,3.5,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACATE MARGARIDA,BOCA 12 A 15,KG,2.41,2.6,2.75,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACAXI PÉROLA,08 FRUTOS,UN,7.08,7.56,8.02,1.8,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACAXI PÉROLA,10 FRUTOS,UN,5.1,5.58,6.05,1.4,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACAXI PÉROLA,12 FRUTOS,UN,3.54,3.87,4.08,1.0,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ACEROLA,-,KG,16.77,18.68,20.9,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA FLA,CALIBRE 2,KG,4.49,4.95,5.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA FLA,CALIBRE 3,KG,5.79,6.49,7.2,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA FLA,CALIBRE 4,KG,8.09,8.8,9.51,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA FORTUNE,CALIBRE 2,KG,5.97,6.41,6.72,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA FORTUNE,CALIBRE 3,KG,7.59,8.29,9.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA FORTUNE,CALIBRE 4,KG,9.85,10.36,10.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA IMP.,48 A 56 FRUTOS,KG,8.89,10.0,11.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA IRATI,CALIBRE 2,KG,5.0,5.5,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA IRATI,CALIBRE 3,KG,6.67,7.5,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA IRATI,CALIBRE 4,KG,9.17,9.67,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA RUBI MEL,CALIBRE 2,KG,4.89,5.67,6.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA RUBI MEL,CALIBRE 3,KG,6.59,6.97,7.46,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA RUBI MEL,CALIBRE 4,KG,7.53,8.05,8.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMEIXA SECA IMP.,-,KG,29.5,29.8,30.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,AMORA,-,KG,31.19,34.86,39.18,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ATEMOIA,05 A 08 FRUTOS,KG,17.22,18.0,18.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ATEMOIA,09 A 12 FRUTOS,KG,14.67,15.26,15.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ATEMOIA,13 A 18 FRUTOS,KG,11.79,12.64,13.22,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA MAÇÃ,PRIMEIRA,KG,7.45,7.7,7.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA MAÇÃ,SEGUNDA,KG,6.45,6.93,7.42,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA NANICA,PRIMEIRA,KG,2.87,3.1,3.34,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA NANICA,SEGUNDA,KG,2.35,2.58,2.8,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA OURO VERDE,PRIMEIRA,KG,6.0,7.0,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA PRATA MG,PRIMEIRA,KG,4.68,5.14,5.61,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA PRATA MG,SEGUNDA,KG,3.64,4.14,4.64,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA PRATA SP,PRIMEIRA,KG,4.3,4.55,4.79,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA PRATA SP,SEGUNDA,KG,3.38,3.8,4.22,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA TERRA,PRIMEIRA,KG,5.73,5.97,6.22,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,BANANA TERRA,SEGUNDA,KG,5.18,5.42,5.64,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CACAU,-,KG,7.6,8.05,8.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CAJU,03 A 04 FRUTOS,KG,26.34,27.9,29.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CAJU,05 A 06 FRUTOS,KG,19.5,21.06,22.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CAQUI IMP.,-,KG,22.32,25.0,27.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CARAMBOLA,-,KG,35.71,39.29,42.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CASTANHA IMP.,-,KG,80.0,83.0,85.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CEREJA IMP.,A,KG,36.74,44.49,52.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,COCO VERDE,-,UN,2.29,2.75,3.22,2.5,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,CUPUAÇU,-,KG,9.17,9.58,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,DAMASCO SECO IMP.,-,KG,70.0,73.0,75.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,FIGO,08 FRUTOS,KG,28.71,30.33,32.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,FIGO,10 FRUTOS,KG,20.83,23.13,24.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,FIGO SECO IMP.,-,KG,70.0,73.0,75.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,FRAMBOESA,-,KG,81.86,86.37,90.17,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GOIABA BRANCA,09 A 12 FRUTOS,KG,8.0,8.17,8.33,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GOIABA BRANCA,15 FRUTOS,KG,6.67,7.17,7.5,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GOIABA BRANCA,18 FRUTOS,KG,6.0,6.17,6.33,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GOIABA VERMELHA,09 A 12 FRUTOS,KG,6.95,7.31,7.6,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GOIABA VERMELHA,15 FRUTOS,KG,6.13,6.39,6.63,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GOIABA VERMELHA,18 FRUTOS,KG,5.42,5.64,5.86,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GRANADILLA IMP. COLÔMBIA,-,KG,44.94,50.93,56.91,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GRAPE-FRUIT,-,KG,5.59,6.15,6.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GRAPE-FRUIT IMP.,-,KG,6.0,6.67,7.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,GRAVIOLA,-,KG,10.68,11.52,12.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,JACA,-,KG,3.74,4.02,4.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,KIWI,TIPO 23 A 27,KG,18.0,18.5,19.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,KIWI,TIPO 30 A 36,KG,16.5,17.0,17.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,KIWI GOLD IMP.,44 A 48 FRUTOS,KG,41.22,42.73,44.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,KIWI IMP.,60 A 80 FRUTOS,KG,17.78,18.89,20.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA BAIA,02 A 03 DZ,KG,3.39,3.73,4.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA BAIA,04 A 05 DZ,KG,2.73,3.05,3.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA BAIA,06 A 07 DZ,KG,2.03,2.35,2.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA BAIA IMP.,-,KG,4.97,5.54,6.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA LIMA,09 A 12 DZ,KG,2.91,3.14,3.37,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA LIMA,13 A 15 DZ,KG,2.4,2.65,2.88,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA LIMA,16 A 21 DZ,KG,1.79,2.03,2.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA PERA,09 A 12 DZ,KG,2.04,2.22,2.41,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA PERA,13 A 15 DZ,KG,1.64,1.82,1.97,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA PERA,16 A 21 DZ,KG,1.23,1.39,1.56,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA SELETA,11 A 12 DZ,KG,3.5,3.75,4.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA SELETA,13 A 15 DZ,KG,3.0,3.25,3.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA SELETA,16 A 21 DZ,KG,2.5,2.75,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA VALÊNCIA,A (10/13 DZ),KG,2.6,2.8,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA VALÊNCIA,B (14/15 DZ),KG,1.9,2.1,2.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA VALÊNCIA,C (18/21 DZ),KG,1.3,1.5,1.7,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LARANJA VALÊNCIA IMP.,-,KG,4.95,5.36,5.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LICHIA,CUMBUCA,KG,24.13,38.39,48.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMA-DA-PÉRSIA,A (09/10 DZ),KG,3.64,3.78,3.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMA-DA-PÉRSIA,B (13/15 DZ),KG,3.09,3.23,3.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMA-DA-PÉRSIA,C (18/24 DZ),KG,2.35,2.61,2.81,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMÃO ROSA,-,KG,2.72,3.5,4.29,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMÃO SICILIANO,-,KG,4.21,4.74,5.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMÃO SICILIANO IMP.,-,KG,6.47,7.21,8.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMÃO TAITI,15 A 18 DZ,KG,6.86,7.21,7.6,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMÃO TAITI,21 A 27 DZ,KG,4.99,5.37,5.75,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,LIMÃO TAITI,ACIMA DE 31 DZ,KG,2.98,3.25,3.51,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ FUJI,110 A 135 FRUTOS,KG,6.88,7.09,7.28,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ FUJI,150 A 180 FRUTOS,KG,6.27,6.48,6.67,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ FUJI,80 A 100 FRUTOS,KG,7.45,7.68,7.89,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ GALA,110 A 135 FRUTOS,KG,6.63,6.79,7.0,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ GALA,150 A 180 FRUTOS,KG,5.95,6.21,6.45,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ GALA,80 A 100 FRUTOS,KG,7.13,7.36,7.55,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ GALA IMP.,120 A 150 FRUTOS,KG,7.9,8.03,8.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ GALA IMP.,80 A 110 FRUTOS,KG,8.62,8.84,9.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ GRANNY SMITH IMP.,120 A 150 FRUTOS,KG,8.87,9.03,9.18,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ GRANNY SMITH IMP.,80 A 110 FRUTOS,KG,9.72,10.21,10.69,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ PINK LADY IMP.,-,KG,7.69,8.17,8.64,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ RED IMP. ARGENTINA,120 A 150 FRUTOS,KG,10.21,10.75,11.29,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ RED IMP. ARGENTINA,80 A 110 FRUTOS,KG,13.05,14.12,15.17,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ RED IMP. CHILE,120 A 150 FRUTOS,KG,8.67,8.77,8.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ RED IMP. CHILE,80 A 110 FRUTOS,KG,9.64,9.91,10.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ RED IMP. ITÁLIA,120 A 150 FRUTOS,KG,8.05,8.16,8.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAÇÃ RED IMP. ITÁLIA,80 A 110 FRUTOS,KG,8.96,9.23,9.51,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAMÃO FORMOSA,05 A 09 FRUTOS,KG,6.38,6.84,7.25,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAMÃO FORMOSA,10 A 16 FRUTOS,KG,4.85,5.24,5.63,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAMÃO HAVAÍ,12 FRUTOS,KG,3.86,4.15,4.36,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAMÃO HAVAÍ,15 A 18 FRUTOS,KG,4.42,4.76,4.99,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAMÃO HAVAÍ,21 FRUTOS,KG,2.81,3.16,3.39,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MAMÃO HAVAÍ,24/28 FRUTOS,KG,2.04,2.33,2.6,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA BOURBON,-,KG,2.87,4.42,5.47,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA ESPADA,A,KG,4.82,5.41,5.81,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA HADEM,08 A 10 FRUTOS,KG,5.33,6.0,6.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA LOLITA,-,KG,3.39,3.9,4.24,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA OURO,A,KG,3.29,3.86,4.29,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA PALMER,08 A 10 FRUTOS,KG,3.37,3.53,3.68,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA PALMER,12 FRUTOS,KG,2.99,3.12,3.29,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA PALMER,13 A 15 FRUTOS,KG,2.62,2.78,2.91,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA PALMER,18 FRUTOS,KG,2.27,2.41,2.57,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA ROSA,A,KG,5.11,5.38,5.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA SHELLY,-,KG,8.0,8.6,9.0,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA TOMMY ATCKINS,08 A 10 FRUTOS,KG,4.3,4.5,4.67,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA TOMMY ATCKINS,12 FRUTOS,KG,3.77,3.97,4.14,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA TOMMY ATCKINS,13 A 15 FRUTOS,KG,3.21,3.4,3.59,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGA TOMMY ATCKINS,18 FRUTOS,KG,2.67,2.85,3.06,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MANGOSTIM,-,KG,56.55,60.57,64.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MARACUJÁ AZEDO,3A,KG,9.53,9.93,10.32,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MARACUJÁ AZEDO,4A,KG,10.84,11.07,11.31,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MARACUJÁ AZEDO,SUPER,KG,11.61,11.96,12.24,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MARACUJÁ DOCE,04 A 06 FRUTOS,KG,15.0,16.0,16.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MARACUJÁ DOCE,07 A 09 FRUTOS,KG,13.33,13.67,14.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MARACUJÁ DOCE,10 A 15 FRUTOS,KG,11.0,11.0,11.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.75,2.88,3.01,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,2.33,2.43,2.55,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.92,2.02,2.14,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELANCIA BABY,-,KG,4.02,4.35,4.67,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.6,3.75,3.89,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.23,3.38,3.53,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,2.86,3.02,3.16,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO AMARELO,ACIMA DE 13 FRUTOS,KG,2.53,2.65,2.77,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO GÁLIA,-,KG,5.0,5.42,5.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO ORANGE,03 A 04 FRUTOS,KG,9.69,10.09,10.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO ORANGE,05 A 06 FRUTOS,KG,8.75,9.15,9.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO ORANGE,07 A 08 FRUTOS,KG,7.68,8.19,8.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO PELE DE SAPO,06 A 08 FRUTOS,KG,4.33,4.46,4.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.88,4.01,4.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.47,3.63,3.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,4.0,4.5,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.55,9.06,9.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.53,8.04,8.55,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,6.41,6.94,7.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MIRTILO IMP.,-,KG,65.43,71.39,76.77,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,20.5,23.49,25.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MORANGO COMUM,4 CUMB/ 1 CAM,KG,30.0,33.0,35.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MORANGO COMUM,4 CUMB/2 CAM,KG,17.56,20.55,22.56,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,NECTARINA,2A POR CALIBRE,KG,5.71,6.14,6.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,NECTARINA,3A POR CALIBRE,KG,7.14,7.86,8.57,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,NECTARINA,4A POR CALIBRE,KG,10.48,11.05,11.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,NOZES IMP.,-,KG,44.28,50.72,56.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA DANJOU IMP.,120 - 150 FRUTOS,KG,7.43,7.71,8.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA DANJOU IMP.,80 - 110 FRUTOS,KG,8.27,8.56,8.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA ERCOLINI IMP.,-,KG,11.05,11.88,12.7,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA FORELLI IMP.,-,KG,11.31,12.21,12.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA HOSUI IMP.,-,KG,11.0,11.67,12.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,120 - 150 FRUTOS,KG,7.33,7.48,7.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,80 - 110 FRUTOS,KG,8.11,8.35,8.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA ROCHA IMP.,50 A 60 FRUTOS,KG,11.4,12.33,13.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA ROCHA IMP.,A GRANEL,KG,10.0,10.9,11.78,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA WILLIAMS IMP.,120 - 150 FRUTOS,KG,9.2,9.7,10.17,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PERA WILLIAMS IMP.,80 - 110 FRUTOS,KG,10.7,11.2,11.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 2,KG,3.92,4.1,4.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 3,KG,4.67,5.14,5.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 4,KG,5.75,6.12,6.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 2,KG,5.83,6.27,6.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 3,KG,7.14,7.63,8.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 4,KG,8.39,8.82,9.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO NACIONAL,CALIBRE 2,KG,2.67,2.83,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO NACIONAL,CALIBRE 3,KG,3.83,4.0,4.17,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO NACIONAL,CALIBRE 4,KG,4.67,4.83,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 2,KG,6.67,7.17,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 3,KG,8.33,8.5,8.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PÊSSEGO RUBIMEL,CALIBRE 4,KG,9.67,9.83,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PHYSALIS IMP. COLÔMBIA,-,KG,56.25,60.07,62.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PITAIA,-,KG,27.34,28.89,30.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,PITAIA IMP. COLÔMBIA,-,KG,47.89,55.0,60.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ROMÃ,-,KG,8.0,9.0,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ROMÃ IMP.,-,KG,21.35,22.64,23.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,SAPOTI,-,KG,8.33,10.83,12.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TÂMARA IMP.,-,KG,36.0,38.0,40.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TÂMARA IMP. ISRAEL,-,KG,54.0,55.0,56.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TÂMARA IMP. TUNÍSIA,-,KG,30.0,31.0,32.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TAMARINDO,-,KG,24.93,27.65,29.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TANGERINA IMP.,-,KG,10.0,11.0,11.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TANGERINA MURCOTE,03 A 04 DZ,KG,5.85,6.23,6.58,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TANGERINA MURCOTE,05 A 06 DZ,KG,4.62,5.06,5.47,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TANGERINA MURCOTE,08 A 10 DZ,KG,3.92,4.15,4.36,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,4.51,4.99,5.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,3.28,3.76,4.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,2.38,2.62,2.88,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA ARRA 15,-,KG,15.86,17.39,18.82,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,10.47,11.47,12.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA BENITAKA,A,KG,12.05,12.65,13.22,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA BENITAKA,B,KG,10.12,10.73,11.37,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA BRASIL,A,KG,12.5,13.13,13.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA BRASIL,B,KG,10.63,11.25,11.88,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA CLARA SEM SEMENTE,A,KG,13.42,14.17,14.96,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA CLARA SEM SEMENTE,B,KG,10.83,11.75,12.65,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA CRIMSON,A,KG,11.03,11.63,12.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA CRIMSON,B,KG,9.65,9.85,10.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA ISIS,-,KG,9.82,10.92,11.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA ITÁLIA,A,KG,13.37,13.72,14.19,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA ITÁLIA,B,KG,11.98,12.52,12.97,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA MOSCATO,-,KG,36.0,40.0,44.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA NIÁGARA,A,KG,9.74,10.41,11.04,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA NIÁGARA,B,KG,8.56,9.08,9.57,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA PASSA IMP.,-,KG,11.7,12.7,13.7,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA PRETA COM SEMENTE,-,KG,11.22,12.0,12.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA RED GLOBE,A,KG,16.0,16.6,17.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA RED GLOBE,B,KG,14.0,14.6,15.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA RED GLOBE IMP.,A,KG,19.65,20.27,20.9,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA RED GLOBE IMP.,B,KG,18.13,18.75,19.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA THOMPSON,A,KG,13.5,14.18,14.78,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA THOMPSON,B,KG,11.51,12.1,12.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,15.93,17.13,18.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA VITÓRIA,A,KG,12.42,13.29,14.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,UVA VITÓRIA,B,KG,10.07,10.86,11.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,11.83,14.07,16.32,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.17,6.41,6.63,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,5.16,5.31,5.45,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,3.13,3.38,3.62,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACATE MARGARIDA,BOCA 12 A 15,KG,2.54,2.72,2.86,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACAXI PÉROLA,08 FRUTOS,UN,7.19,7.62,8.06,1.8,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACAXI PÉROLA,10 FRUTOS,UN,5.12,5.59,6.03,1.4,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACAXI PÉROLA,12 FRUTOS,UN,3.54,3.92,4.17,1.0,Abacaxi,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ACEROLA,-,KG,11.65,13.62,16.04,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA FORTUNE,CALIBRE 2,KG,5.76,6.33,6.89,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA FORTUNE,CALIBRE 3,KG,7.71,8.37,9.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA FORTUNE,CALIBRE 4,KG,9.85,10.49,11.06,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA IMP.,48 A 56 FRUTOS,KG,8.89,10.0,11.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA IRATI,CALIBRE 2,KG,5.0,5.5,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA IRATI,CALIBRE 3,KG,6.67,7.5,8.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA IRATI,CALIBRE 4,KG,9.17,9.67,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA RUBI MEL,CALIBRE 2,KG,4.85,5.5,6.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA RUBI MEL,CALIBRE 3,KG,6.77,7.07,7.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA RUBI MEL,CALIBRE 4,KG,7.76,8.13,8.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMEIXA SECA IMP.,-,KG,29.3,29.81,30.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,AMORA,-,KG,36.74,39.91,42.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ATEMOIA,05 A 08 FRUTOS,KG,24.14,25.89,27.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ATEMOIA,09 A 12 FRUTOS,KG,19.16,19.96,20.77,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ATEMOIA,13 A 18 FRUTOS,KG,13.59,15.24,16.8,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA MAÇÃ,PRIMEIRA,KG,7.34,7.59,7.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA MAÇÃ,SEGUNDA,KG,6.34,6.8,7.26,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA NANICA,PRIMEIRA,KG,2.88,3.12,3.36,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA NANICA,SEGUNDA,KG,2.37,2.6,2.83,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA OURO VERDE,PRIMEIRA,KG,6.67,7.08,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA PRATA MG,PRIMEIRA,KG,4.83,5.26,5.69,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA PRATA MG,SEGUNDA,KG,3.76,4.26,4.76,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA PRATA SP,PRIMEIRA,KG,4.3,4.53,4.76,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA PRATA SP,SEGUNDA,KG,3.38,3.8,4.22,1.0,Banana,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA TERRA,PRIMEIRA,KG,5.33,5.58,5.85,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,BANANA TERRA,SEGUNDA,KG,4.65,4.91,5.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CACAU,-,KG,7.48,7.82,8.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CAJU,03 A 04 FRUTOS,KG,21.33,22.6,23.88,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CAJU,05 A 06 FRUTOS,KG,16.29,17.56,18.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CAQUI IMP.,-,KG,22.5,25.0,27.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CARAMBOLA,-,KG,30.14,32.59,34.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CASTANHA IMP.,-,KG,80.0,83.0,85.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CEREJA IMP.,A,KG,34.25,41.88,49.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,COCO VERDE,-,UN,2.22,2.67,3.09,2.5,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,CUPUAÇU,-,KG,8.63,9.31,10.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,FIGO,08 FRUTOS,KG,28.85,30.59,32.88,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,FIGO,10 FRUTOS,KG,21.12,23.31,24.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,FRAMBOESA,-,KG,82.36,86.55,89.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GOIABA BRANCA,09 A 12 FRUTOS,KG,7.09,7.26,7.42,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GOIABA BRANCA,15 FRUTOS,KG,6.03,6.36,6.59,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GOIABA BRANCA,18 FRUTOS,KG,4.9,5.16,5.42,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GOIABA VERMELHA,09 A 12 FRUTOS,KG,7.09,7.43,7.73,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GOIABA VERMELHA,15 FRUTOS,KG,6.31,6.57,6.8,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GOIABA VERMELHA,18 FRUTOS,KG,5.59,5.83,6.07,1.0,Goiaba,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GRANADILLA IMP. COLÔMBIA,-,KG,46.74,50.86,55.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GRAPE-FRUIT,-,KG,5.04,5.55,6.06,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GRAPE-FRUIT IMP.,-,KG,6.34,7.0,7.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,GRAVIOLA,-,KG,11.14,11.86,12.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,JACA,-,KG,3.67,3.96,4.2,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,KIWI,TIPO 23 A 27,KG,19.0,19.5,20.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,KIWI,TIPO 30 A 36,KG,18.0,18.3,18.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,KIWI GOLD IMP.,44 A 48 FRUTOS,KG,40.28,42.15,44.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,KIWI IMP.,60 A 80 FRUTOS,KG,17.78,18.89,20.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA BAIA,02 A 03 DZ,KG,3.53,3.87,4.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA BAIA,04 A 05 DZ,KG,2.86,3.16,3.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA BAIA,06 A 07 DZ,KG,2.08,2.4,2.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA BAIA IMP.,-,KG,5.85,6.51,7.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA LIMA,09 A 12 DZ,KG,2.99,3.22,3.46,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA LIMA,13 A 15 DZ,KG,2.48,2.72,2.96,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA LIMA,16 A 21 DZ,KG,1.87,2.11,2.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA PERA,09 A 12 DZ,KG,2.02,2.2,2.37,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA PERA,13 A 15 DZ,KG,1.61,1.79,1.96,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA PERA,16 A 21 DZ,KG,1.21,1.36,1.52,1.0,Laranja,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA SELETA,11 A 12 DZ,KG,3.5,3.75,4.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA SELETA,13 A 15 DZ,KG,3.0,3.25,3.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA SELETA,16 A 21 DZ,KG,2.5,2.75,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA VALÊNCIA,A (10/13 DZ),KG,2.6,2.8,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA VALÊNCIA,B (14/15 DZ),KG,1.9,2.1,2.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA VALÊNCIA,C (18/21 DZ),KG,1.3,1.5,1.7,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LARANJA VALÊNCIA IMP.,-,KG,5.14,5.58,6.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LICHIA,CUMBUCA,KG,23.66,35.67,44.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMA-DA-PÉRSIA,A (09/10 DZ),KG,3.57,3.7,3.85,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMA-DA-PÉRSIA,B (13/15 DZ),KG,3.03,3.17,3.31,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMA-DA-PÉRSIA,C (18/24 DZ),KG,2.29,2.55,2.77,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMÃO ROSA,-,KG,2.82,3.62,4.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMÃO SICILIANO,-,KG,4.49,5.05,5.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMÃO SICILIANO IMP.,-,KG,6.45,7.13,7.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMÃO TAITI,15 A 18 DZ,KG,5.46,5.77,6.08,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMÃO TAITI,21 A 27 DZ,KG,4.29,4.62,4.92,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,LIMÃO TAITI,ACIMA DE 31 DZ,KG,2.55,2.82,3.09,1.0,Limão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ FUJI,110 A 135 FRUTOS,KG,6.77,6.95,7.11,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ FUJI,150 A 180 FRUTOS,KG,6.26,6.43,6.59,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ FUJI,80 A 100 FRUTOS,KG,7.31,7.51,7.7,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ GALA,110 A 135 FRUTOS,KG,6.66,6.84,7.01,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ GALA,150 A 180 FRUTOS,KG,6.1,6.28,6.46,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ GALA,80 A 100 FRUTOS,KG,7.2,7.41,7.6,1.0,Maçã,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ GALA IMP.,120 A 150 FRUTOS,KG,8.09,8.26,8.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ GALA IMP.,80 A 110 FRUTOS,KG,8.94,9.19,9.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ GRANNY SMITH IMP.,120 A 150 FRUTOS,KG,8.23,8.47,8.72,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ GRANNY SMITH IMP.,80 A 110 FRUTOS,KG,9.18,9.67,10.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ PINK LADY IMP.,-,KG,7.21,7.77,8.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ RED IMP. ARGENTINA,120 A 150 FRUTOS,KG,13.61,13.89,14.17,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ RED IMP. ARGENTINA,80 A 110 FRUTOS,KG,14.44,14.72,15.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ RED IMP. CHILE,120 A 150 FRUTOS,KG,9.19,9.37,9.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ RED IMP. CHILE,80 A 110 FRUTOS,KG,10.06,10.33,10.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ RED IMP. ITÁLIA,120 A 150 FRUTOS,KG,7.61,7.85,8.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAÇÃ RED IMP. ITÁLIA,80 A 110 FRUTOS,KG,8.46,8.74,9.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAMÃO FORMOSA,05 A 09 FRUTOS,KG,6.46,6.94,7.43,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAMÃO FORMOSA,10 A 16 FRUTOS,KG,4.8,5.28,5.74,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAMÃO HAVAÍ,12 FRUTOS,KG,4.13,4.4,4.66,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAMÃO HAVAÍ,15 A 18 FRUTOS,KG,4.68,5.03,5.26,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAMÃO HAVAÍ,21 FRUTOS,KG,3.04,3.31,3.59,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MAMÃO HAVAÍ,24/28 FRUTOS,KG,2.32,2.59,2.86,1.0,Mamão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA BOURBON,-,KG,2.78,4.44,5.56,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA ESPADA,A,KG,4.93,5.53,5.93,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA HADEM,08 A 10 FRUTOS,KG,5.48,5.72,5.94,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA HADEM,12 FRUTOS,KG,4.83,5.0,5.17,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA HADEM,13 A 15 FRUTOS,KG,4.17,4.33,4.5,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA HADEM,18 FRUTOS,KG,3.5,3.67,3.83,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA LOLITA,-,KG,3.2,3.67,4.0,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA OURO,A,KG,3.29,3.86,4.29,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA PALMER,08 A 10 FRUTOS,KG,3.45,3.6,3.74,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA PALMER,12 FRUTOS,KG,3.07,3.22,3.35,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA PALMER,13 A 15 FRUTOS,KG,2.72,2.89,3.01,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA PALMER,18 FRUTOS,KG,2.34,2.5,2.63,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA ROSA,A,KG,6.42,6.93,7.43,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA SHELLY,-,KG,8.0,8.6,9.0,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA TOMMY ATCKINS,08 A 10 FRUTOS,KG,4.58,4.79,5.01,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA TOMMY ATCKINS,12 FRUTOS,KG,4.01,4.22,4.42,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA TOMMY ATCKINS,13 A 15 FRUTOS,KG,3.39,3.59,3.8,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA TOMMY ATCKINS,18 FRUTOS,KG,2.75,2.96,3.18,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGA VAN DICK,A,KG,3.5,3.7,4.0,1.0,Manga,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MANGOSTIM,-,KG,60.87,64.72,69.04,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MARACUJÁ AZEDO,3A,KG,9.58,9.98,10.36,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MARACUJÁ AZEDO,4A,KG,10.63,10.98,11.3,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MARACUJÁ AZEDO,SUPER,KG,11.46,11.85,12.2,1.0,Maracujá,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.64,2.76,2.88,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,2.19,2.32,2.44,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.77,1.9,2.01,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELANCIA BABY,-,KG,3.9,4.25,4.59,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,4.0,4.16,4.28,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.62,3.76,3.92,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.25,3.39,3.54,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO AMARELO,ACIMA DE 13 FRUTOS,KG,2.87,3.02,3.14,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO GÁLIA,-,KG,5.03,5.44,5.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO ORANGE,03 A 04 FRUTOS,KG,9.03,9.52,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO ORANGE,05 A 06 FRUTOS,KG,8.04,8.53,9.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO ORANGE,07 A 08 FRUTOS,KG,6.75,7.38,7.87,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO PELE DE SAPO,06 A 08 FRUTOS,KG,4.1,4.26,4.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.71,3.84,4.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.24,3.47,3.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,4.17,4.58,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.47,8.97,9.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.49,7.94,8.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,6.19,6.72,7.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MIRTILO IMP.,-,KG,62.34,69.02,75.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MORANGO CAMINO REAL,4 CUMB/ 1 CAM,KG,23.54,28.53,33.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,20.39,23.57,25.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MORANGO COMUM,4 CUMB/2 CAM,KG,16.5,19.34,21.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MORANGO FÊNIX,-,KG,15.0,18.0,20.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,NECTARINA,2A POR CALIBRE,KG,6.35,7.19,8.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,NECTARINA,3A POR CALIBRE,KG,8.82,9.25,9.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,NECTARINA,4A POR CALIBRE,KG,10.18,10.82,11.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,NÊSPERA,CUMBUCA,KG,44.94,57.41,67.41,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,NOZES IMP.,-,KG,35.83,47.33,58.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA DANJOU IMP.,120 - 150 FRUTOS,KG,7.42,7.7,7.95,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA DANJOU IMP.,80 - 110 FRUTOS,KG,8.24,8.53,8.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA ERCOLINI IMP.,-,KG,11.78,12.49,13.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA FORELLI IMP.,-,KG,9.17,10.0,10.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA HOSUI IMP.,-,KG,11.0,11.5,12.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,120 - 150 FRUTOS,KG,7.16,7.32,7.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA PACKHAMS TRIUMPH IMP.,80 - 110 FRUTOS,KG,7.92,8.16,8.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA ROCHA IMP.,50 A 60 FRUTOS,KG,13.4,14.19,14.98,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA ROCHA IMP.,A GRANEL,KG,9.71,10.43,11.12,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA WILLIAMS IMP.,120 - 150 FRUTOS,KG,9.41,9.9,10.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PERA WILLIAMS IMP.,80 - 110 FRUTOS,KG,10.84,11.36,11.86,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 2,KG,4.02,4.32,4.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 3,KG,4.96,5.31,5.61,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO FASCÍNIO,CALIBRE 4,KG,5.95,6.24,6.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 2,KG,6.97,7.49,8.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 3,KG,8.46,8.98,9.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO KAMPAI,CALIBRE 4,KG,9.73,10.25,10.78,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO NACIONAL,CALIBRE 2,KG,2.68,2.84,3.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO NACIONAL,CALIBRE 3,KG,3.84,4.0,4.18,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PÊSSEGO NACIONAL,CALIBRE 4,KG,4.68,4.84,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PHYSALIS IMP. COLÔMBIA,-,KG,63.13,65.98,68.85,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PINHA,07 A 09 FRUTOS,KG,23.0,24.0,25.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PINHA,10 A 12 FRUTOS,KG,19.0,20.0,21.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PINHA,13 A 15 FRUTOS,KG,15.0,16.0,17.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PITAIA,-,KG,18.98,21.41,23.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,PITAIA IMP. COLÔMBIA,-,KG,68.62,71.99,75.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ROMÃ,-,KG,8.0,9.0,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ROMÃ IMP.,-,KG,18.2,20.35,22.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TÂMARA IMP.,-,KG,36.0,40.0,46.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TÂMARA IMP. ISRAEL,-,KG,34.0,35.0,36.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TÂMARA IMP. TUNÍSIA,-,KG,17.35,18.35,19.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TAMARINDO,-,KG,17.6,19.65,21.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TANGERINA IMP.,-,KG,8.0,9.0,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TANGERINA MURCOTE,03 A 04 DZ,KG,6.35,6.72,7.07,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TANGERINA MURCOTE,05 A 06 DZ,KG,5.0,5.44,5.87,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TANGERINA MURCOTE,08 A 10 DZ,KG,4.27,4.49,4.67,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,4.44,4.92,5.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,3.14,3.64,4.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,2.26,2.48,2.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA ARRA 15,-,KG,16.23,17.58,18.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,10.0,11.0,12.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA CLARA SEM SEMENTE,A,KG,12.97,13.66,14.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA CLARA SEM SEMENTE,B,KG,10.1,11.12,12.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA CRIMSON,A,KG,11.09,11.69,12.1,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA CRIMSON,B,KG,9.69,9.9,10.08,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA ISIS,-,KG,8.73,9.58,10.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA MOSCATO,-,KG,37.07,42.15,47.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA NIÁGARA,A,KG,9.97,10.55,11.1,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA NIÁGARA,B,KG,8.64,9.14,9.65,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA PASSA IMP.,-,KG,12.63,14.54,16.74,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA PRETA COM SEMENTE,-,KG,10.0,11.0,12.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA PRETA SEM SEMENTE,-,KG,10.0,11.0,12.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA RED GLOBE IMP.,A,KG,19.67,20.3,20.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA RED GLOBE IMP.,B,KG,18.13,18.75,19.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA THOMPSON,A,KG,14.66,15.37,15.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA THOMPSON,B,KG,12.88,13.28,13.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,14.51,16.01,17.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA VITÓRIA,A,KG,12.0,12.99,14.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,UVA VITÓRIA,B,KG,9.24,10.25,11.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
