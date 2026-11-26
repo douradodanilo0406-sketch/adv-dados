@@ -178,6 +178,9 @@ def exportacao_forte(f):
     e = f.get("exportacao_mensal_t") or []
     if not e or sum(e) < 1000:
         return None
+    prod = (f.get("producao") or {}).get("total_t")
+    if prod and sum(e) / prod < EXPORTACAO_MIN_PCT / 100:  # exporta pouco perto do que produz: não pesa no preço
+        return None
     media = sum(e) / 12
     meses = [MESES[i] for i, v in enumerate(e) if v >= 1.5 * media]
     if not meses:
@@ -186,6 +189,7 @@ def exportacao_forte(f):
     return {"meses": meses, "texto": f"Exportação forte em {lista}: concorrência pela fruta"}
 
 
+EXPORTACAO_MIN_PCT = 2   # % da produção nacional
 LIMITE_DIF_PRACAS = 45  # % — acima disso, provável variedade/qualidade diferente entre praças
 
 
