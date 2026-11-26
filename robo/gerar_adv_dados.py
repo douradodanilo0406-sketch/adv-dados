@@ -25,6 +25,8 @@ RAIZ = os.path.dirname(AQUI)
 sys.path.insert(0, AQUI)
 import coletor_flv as flv            # noqa: E402
 import coletor_precos_ceasas as cmp  # noqa: E402
+import catalogo                      # noqa: E402
+import hashlib                       # noqa: E402
 
 SCHEMA = "adv-dados/1.0"
 TZ = ZoneInfo("America/Sao_Paulo")
@@ -48,9 +50,18 @@ def ler_json(caminho):
 
 
 # ---------------------------------------------------------------- 1. base anual
+def hash_catalogo():
+    campos = [(i["id"], (i.get("pam") or {}).get("produto"), catalogo.prohort_de(i), i.get("ncm"))
+              for i in catalogo.ITENS]
+    return hashlib.sha1(json.dumps(campos, sort_keys=True).encode()).hexdigest()[:12]
+
+
 def base_anual(ano, cache, forcar):
     caminho = P("base", f"mapa_abastecimento_{ano}.json")
     atual = ler_json(caminho)
+    if atual and not forcar and atual.get("catalogo_hash") not in (None, hash_catalogo()):
+        log("catálogo mudou (item novo ou mapeamento alterado): regenerando a base anual")
+        forcar = True
     if atual and not forcar:
         idade = (AGORA.date() - dt.date.fromisoformat(atual["gerado_em"])).days
         if idade < 30:
@@ -61,7 +72,10 @@ def base_anual(ano, cache, forcar):
         exp = flv.coletar_exportacao(ano)
         tmp = caminho + ".tmp"
         doc = flv.exportar_app(ano, pam, precos, pd.DataFrame(), exp, tmp)
-        if len(doc["frutas"]) < 10 or not any(f["preco_mensal_ceasarj"] for f in doc["frutas"]):
+        doc["catalogo_hash"] = hash_catalogo()
+        with open(tmp, "w", encoding="utf-8") as fh:
+            json.dump(doc, fh, ensure_ascii=False, separators=(",", ":"))
+        if len(doc["frutas"]) < min(10, len(catalogo.ITENS)) or not any(f["preco_mensal_ceasarj"] for f in doc["frutas"]):
             raise ValueError("base anual incompleta")
         os.replace(tmp, caminho)
         return doc, {"status": "ok", "gerado_em": doc["gerado_em"]}
@@ -98,10 +112,13 @@ def precos(cache, sem_prohort, dias=120):
         if not len(novo):
             raise ValueError("boletim vazio")
         ceagesp = cmp.acumular(novo, arq_c, ["data", "grupo", "produto", "classificacao"])
+        ceagesp["fruta"] = ceagesp.produto.map(cmp._fruta_ceagesp)  # reaplica o catálogo atual ao histórico
         st["ceagesp"] = {"status": "ok", "dados_ate": str(ceagesp.data.max())}
     except Exception as e:
         log(f"CEAGESP FALHOU: {e}")
         ceagesp = pd.read_csv(arq_c) if os.path.exists(arq_c) else pd.DataFrame()
+        if len(ceagesp):
+            ceagesp["fruta"] = ceagesp.produto.map(cmp._fruta_ceagesp)
         st["ceagesp"] = {"status": "falhou", "obs": str(e)[:200],
                          "dados_ate": str(ceagesp.data.max()) if len(ceagesp) else None}
     return prohort, ceagesp, st
@@ -123,6 +140,7 @@ def contexto_mes(f, m):
     out = {"mes": m, "rotulo": f"Estimativa · padrão de {ano}"}
     if m not in mensal:
         out["texto"] = "Sem cotação diária na CEASA-RJ"
+        _safra(out, ref, m)
         return out
     atual = mensal[m]
     out["indice"] = atual["indice"]; out["faixa"] = faixa(atual["indice"])
@@ -140,15 +158,20 @@ def contexto_mes(f, m):
     if atual.get("alerta_preco_repetido") or (usado and mensal[usado].get("alerta_preco_repetido")):
         texto += " (baixa confiança: preço repetido pela Conab)"
     out["texto"] = texto
-    if ref:
-        nxt = m % 12 + 1
-        if m in ref.get("entressafra", []):
-            out["safra"] = "Em entressafra"
-        elif nxt in ref.get("entressafra", []):
-            out["safra"] = f"Entressafra começa em {MESES[nxt - 1]}"
-        elif m in ref.get("pico", []):
-            out["safra"] = "Em safra"
+    _safra(out, ref, m)
     return out
+
+
+def _safra(out, ref, m):
+    if not ref:
+        return
+    nxt = m % 12 + 1
+    if m in ref.get("entressafra", []):
+        out["safra"] = "Em entressafra"
+    elif nxt in ref.get("entressafra", []):
+        out["safra"] = f"Entressafra começa em {MESES[nxt - 1]}"
+    elif m in ref.get("pico", []):
+        out["safra"] = "Em safra"
 
 
 def exportacao_forte(f):
@@ -163,44 +186,73 @@ def exportacao_forte(f):
     return {"meses": meses, "texto": f"Exportação forte em {lista}: concorrência pela fruta"}
 
 
+LIMITE_DIF_PRACAS = 45  # % — acima disso, provável variedade/qualidade diferente entre praças
+
+
+confirma_calendario = catalogo.calendario_confirmado
+
+
+def _praca_app(v, vs=None):
+    d = {"media_28d": v["media_28d"], "ultimo": v["ultimo"]["preco"], "data": v["ultimo"]["data"],
+         "certeza": "oficial"}
+    if v.get("confianca"):
+        d["confianca"] = v["confianca"]; d["obs"] = v["obs"]
+    if vs is not None:
+        d["vs_rj_pct"] = vs
+    return d
+
+
 def cruzar(base, prohort, ceagesp):
     pc = cmp.exportar(prohort, ceagesp, pd.DataFrame(), os.devnull)  # reaproveita o cálculo do comparativo
     por_id = {x["id"]: x for x in pc["frutas"]}
+    base_id = {x["id"]: x for x in base["frutas"]}
     frutas = []
-    for f in base["frutas"]:
-        f = dict(f, _ano_base=base["ano_base"])
-        c = por_id.get(f["id"], {})
-        aliases = {sem_acento(f["nome"])} | {sem_acento(p) for p in f.get("produtos_prohort", [])}
+    for item in catalogo.ITENS:
+        f = dict(base_id.get(item["id"]) or {"id": item["id"], "nome": item["nome"]}, _ano_base=base["ano_base"])
+        ref = catalogo.safra(item)
+        mensal = f.get("preco_mensal_ceasarj") or []
+        calendario_ok = confirma_calendario(mensal, ref)
+        # calibragem: se o preço do Rio contradiz o calendário, o app NÃO mostra "Em safra"/"Entressafra"
+        f["safra_referencia"] = None if calendario_ok is False else ref
+        c = por_id.get(item["id"], {})
+        aliases = {sem_acento(item["nome"])} | {sem_acento(p) for p in catalogo.prohort_de(item)}
         aliases |= {sem_acento(x["produto"]) for x in c.get("ceagesp_classificacoes", [])}
-        pracas = {}
-        for k, v in c.get("pracas", {}).items():
-            pracas[k] = {"media_28d": v["media_28d"], "ultimo": v["ultimo"]["preco"],
-                         "data": v["ultimo"]["data"], "certeza": "oficial"}
-            if k in c.get("comparacao_vs_rj", {}):
-                pracas[k]["vs_rj_pct"] = c["comparacao_vs_rj"][k]
+        pracas = {k: _praca_app(v, c.get("comparacao_vs_rj", {}).get(k)) for k, v in c.get("pracas", {}).items()}
         alertas = []
         exf = exportacao_forte(f)
         if exf:
             alertas.append({"tipo": "exportacao_forte", **exf})
-        if f.get("sinais", {}).get("calendario_confirmado_pelo_preco") is False:
-            alertas.append({"tipo": "padrao_em_investigacao", "texto": "padrão em investigação"})
-        mensal = f.get("preco_mensal_ceasarj") or []
-        frutas.append({
-            "id": f["id"], "nome": f["nome"], "aliases": sorted(aliases),
-            "unidade": c.get("unidade") or f.get("unidade_preco"),
+        if calendario_ok is False:
+            alertas.append({"tipo": "padrao_em_investigacao", "texto": "padrão em investigação",
+                            "obs": "o preço na CEASA-RJ não segue o calendário de safra de referência"})
+        grandes = [k for k, v in pracas.items() if abs(v.get("vs_rj_pct") or 0) >= LIMITE_DIF_PRACAS]
+        if grandes:
+            alertas.append({"tipo": "diferenca_grande_entre_pracas", "pracas": grandes,
+                            "texto": "Diferença grande entre praças: pode ser variedade ou qualidade diferente"})
+        oferta = catalogo.suavizar(catalogo.oferta_ceagesp(item))
+        out = {
+            "id": item["id"], "nome": item["nome"], "aliases": sorted(aliases),
+            "unidade": c.get("unidade") or f.get("unidade_preco") or item.get("unidade"),
             "contexto_por_mes": [contexto_mes(f, m) for m in range(1, 13)],
             "sazonal": {"indice_mes": [next((x["indice"] for x in mensal if x["mes"] == m), None) for m in range(1, 13)],
                         "preco_mes": [next((x["preco"] for x in mensal if x["mes"] == m), None) for m in range(1, 13)],
-                        "pico": (f.get("safra_referencia") or {}).get("pico"),
-                        "entressafra": (f.get("safra_referencia") or {}).get("entressafra"),
-                        "obs": (f.get("safra_referencia") or {}).get("obs")},
+                        "pico": (ref or {}).get("pico"), "entressafra": (ref or {}).get("entressafra"),
+                        "obs": (ref or {}).get("obs"), "fonte_safra": (ref or {}).get("fonte"),
+                        "calendario_confirmado": calendario_ok,
+                        "oferta_ceagesp_mes": oferta},
             "producao": f.get("producao"),
             "exportacao_mensal_t": f.get("exportacao_mensal_t"),
+            "variedade_referencia": c.get("variedade_referencia"),
             "pracas": pracas,
+            "variedades": [{"nome": v["nome"], "pracas": {k: _praca_app(x) for k, x in v["pracas"].items()}}
+                           for v in c.get("variedades", []) if len(c.get("variedades", [])) > 1],
             "ceagesp_hoje": [{k: x[k] for k in ("data", "produto", "classificacao", "menor", "comum", "maior")}
                              for x in c.get("ceagesp_classificacoes", [])],
             "alertas": alertas,
-        })
+        }
+        if item.get("obs"):
+            out["obs"] = item["obs"]
+        frutas.append(out)
     return frutas
 
 
@@ -219,8 +271,9 @@ def validar(frutas, anterior):
                 f["pracas"][k] = ant[f["id"]]["pracas"][k]
         f["ceagesp_hoje"] = [x for x in f["ceagesp_hoje"]
                              if x["comum"] and x["comum"] > 0 and x["menor"] <= x["comum"] * 1.5 and x["maior"] >= x["comum"] / 1.5]
-    if len(frutas) < 10:
-        raise ValueError(f"só {len(frutas)} frutas — não publico")
+    minimo = min(10, len(catalogo.ITENS))
+    if len(frutas) < minimo:
+        raise ValueError(f"só {len(frutas)} itens — não publico")
     return avisos
 
 

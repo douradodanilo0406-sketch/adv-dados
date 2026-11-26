@@ -49,11 +49,14 @@ jobs:
           rm -f cache/ProhortDiario.txt   # sempre baixar a versão do dia
           python robo/gerar_adv_dados.py ${{ inputs.anual && '--anual' || '' }}
 
+      - name: Calibragem (relatório item por item)
+        run: python robo/calibrar.py
+
       - name: Publicar
         run: |
           git config user.name "adv-robo"
           git config user.email "adv-robo@users.noreply.github.com"
-          git add publico historico dados base
+          git add publico historico dados base CALIBRAGEM.md
           if git diff --cached --quiet; then echo "sem mudança"; exit 0; fi
           git commit -m "Coleta $(TZ=America/Sao_Paulo date '+%Y-%m-%d %H:%M')"
           git push

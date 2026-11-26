@@ -1,0 +1,751 @@
+{
+ "gerado_em": "26/11/2026 22:49",
+ "itens": [
+  {
+   "id": "laranja",
+   "nome": "Laranja",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "LARANJA PERA: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['mai', 'jun', 'jul', 'ago', 'set', 'out'], entressafra ['dez', 'jan', 'fev', 'mar']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em jan, mais barato em ago"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "1 produto(s) no histórico; 3 linha(s) no último boletim (2026-11-25): LARANJA PERA"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -36%, Campinas -12%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "16.562.775 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "458 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab Campinas: preço quase parado na Conab nos últimos 28 dias",
+    "No CEAGESP e fora do mapeamento (de propósito ou não): LARANJA BAIA, LARANJA LIMA, LARANJA SELETA, LARANJA VALÊNCIA"
+   ],
+   "app_mes_atual": "barato · Costuma subir 50% até jan · Entressafra começa em dez",
+   "status": "ok"
+  },
+  {
+   "id": "limao",
+   "nome": "Limão",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "LIMAO TAHITI: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['jan', 'fev', 'mar', 'abr'], entressafra ['mai', 'jun', 'jul', 'ago', 'set', 'out']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em set, mais barato em abr"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "1 produto(s) no histórico; 3 linha(s) no último boletim (2026-11-25): LIMÃO TAITI"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -30%, Campinas -7%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "1.855.085 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "203.703 t no ano"
+    }
+   ],
+   "notas": [
+    "Preço repetido o mês inteiro em mar (baixa confiança nesses meses)",
+    "No CEAGESP e fora do mapeamento (de propósito ou não): LIMÃO ROSA, LIMÃO SICILIANO"
+   ],
+   "app_mes_atual": "normal · Costuma cair 14% até fev",
+   "status": "ok"
+  },
+  {
+   "id": "banana",
+   "nome": "Banana",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "BANANA PRATA: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['jan', 'fev', 'mar', 'abr', 'mai'], entressafra ['jun', 'jul', 'ago']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em set, mais barato em jun"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "3 produto(s) no histórico; 6 linha(s) no último boletim (2026-11-25): BANANA NANICA, BANANA PRATA MG, BANANA PRATA SP"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP +40%, Campinas +42%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "7.288.960 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "80.107 t no ano"
+    }
+   ],
+   "notas": [
+    "Preço repetido o mês inteiro em jun (baixa confiança nesses meses)",
+    "No CEAGESP e fora do mapeamento (de propósito ou não): BANANA MAÇÃ, BANANA OURO VERDE, BANANA TERRA"
+   ],
+   "app_mes_atual": "normal · Preço costuma ficar estável nos próximos meses",
+   "status": "ok"
+  },
+  {
+   "id": "caqui",
+   "nome": "Caqui",
+   "checagens": [
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['jan', 'fev', 'mar', 'abr', 'mai'], entressafra ['jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez']"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "fora de época agora (entressafra): normal não aparecer. 0 produto(s) no histórico; 0 linha(s) no último boletim (2026-11-25)"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "164.625 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "898 t no ano"
+    }
+   ],
+   "notas": [
+    "A Conab não cota este item: sem comparação entre praças, só CEAGESP."
+   ],
+   "app_mes_atual": "Sem cotação diária na CEASA-RJ · Em entressafra",
+   "status": "ok"
+  },
+  {
+   "id": "manga",
+   "nome": "Manga",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "MANGA: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['out', 'nov', 'dez', 'jan', 'fev'], entressafra ['mai', 'jun', 'jul', 'ago']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em jun, mais barato em jan"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "10 produto(s) no histórico; 19 linha(s) no último boletim (2026-11-25): MANGA BOURBON, MANGA ESPADA, MANGA HADEM, MANGA LOLITA, MANGA OURO, MANGA PALMER, MANGA ROSA, MANGA SHELLY, MANGA TOMMY ATCKINS, MANGA VAN DICK"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP +16%, Campinas +5%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "1.905.559 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "290.842 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab Campinas: preço quase parado na Conab nos últimos 28 dias"
+   ],
+   "app_mes_atual": "barato · Costuma subir 31% até fev · Em safra",
+   "status": "ok"
+  },
+  {
+   "id": "uva",
+   "nome": "Uva",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "UVA ITALIA: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['jan', 'fev', 'mar'], entressafra ['abr', 'mai', 'jun', 'jul', 'ago', 'set', 'out', 'nov', 'dez']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em jan, mais barato em ago"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "3 produto(s) no histórico; 2 linha(s) no último boletim (2026-11-25): UVA NIÁGARA"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -16%, Campinas -9%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "2.197.707 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "62.166 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab RJ: preço quase parado na Conab nos últimos 28 dias",
+    "Preço repetido o mês inteiro em jun, nov, dez (baixa confiança nesses meses)",
+    "No CEAGESP e fora do mapeamento (de propósito ou não): UVA ARRA 15, UVA ARRA CHERRY CRUSH, UVA BENITAKA, UVA BRASIL, UVA CLARA SEM SEMENTE, UVA CRIMSON, UVA ISIS, UVA MELODIA, UVA MOSCATO, UVA NACIONAL, UVA PRETA COM SEMENTE, UVA PRETA SEM SEMENTE, UVA RED GLOBE, UVA THOMPSON, UVA VERMELHA SEM SEMENTE, UVA VITÓRIA"
+   ],
+   "app_mes_atual": "normal · Costuma subir 15% até jan (baixa confiança: preço repetido pela Conab) · Em entressafra",
+   "status": "ok"
+  },
+  {
+   "id": "melao",
+   "nome": "Melão",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "MELAO AMARELO: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['ago', 'set', 'out', 'nov', 'dez', 'jan'], entressafra ['fev', 'mar', 'abr', 'mai', 'jun']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": false,
+     "detalhe": "mais caro em set, mais barato em jun — fora da entressafra: o app esconde o texto de safra e mostra 'padrão em investigação'"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "1 produto(s) no histórico; 4 linha(s) no último boletim (2026-11-25): MELÃO AMARELO"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -14%, Campinas +4%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "705.848 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "283.359 t no ano"
+    }
+   ],
+   "notas": [
+    "No CEAGESP e fora do mapeamento (de propósito ou não): MELÃO GÁLIA, MELÃO ORANGE, MELÃO PELE DE SAPO, MELÃO POLPA BRANCA \"MATISSE\""
+   ],
+   "app_mes_atual": "normal · Costuma cair 21% até dez",
+   "status": "atenção"
+  },
+  {
+   "id": "abacaxi",
+   "nome": "Abacaxi",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "ABACAXI: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['out', 'nov', 'dez', 'jan'], entressafra ['fev', 'mar', 'abr', 'mai']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em jan, mais barato em dez"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "1 produto(s) no histórico; 3 linha(s) no último boletim (2026-11-25): ABACAXI PÉROLA"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -10%, Campinas -20%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "1.596.703 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "3.422 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab Campinas: preço quase parado na Conab nos últimos 28 dias"
+   ],
+   "app_mes_atual": "barato · Costuma subir 68% até jan · Em safra",
+   "status": "ok"
+  },
+  {
+   "id": "mamao",
+   "nome": "Mamão",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "MAMAO FORMOSA: RJ 75 dias, SP 45 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['set', 'out', 'nov', 'dez', 'jan', 'fev', 'mar'], entressafra ['jun', 'jul', 'ago']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": false,
+     "detalhe": "mais caro em mar, mais barato em jan — fora da entressafra: o app esconde o texto de safra e mostra 'padrão em investigação'"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "2 produto(s) no histórico; 6 linha(s) no último boletim (2026-11-25): MAMÃO FORMOSA, MAMÃO HAVAÍ"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -21%, Campinas -18%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "1.158.987 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "55.163 t no ano"
+    }
+   ],
+   "notas": [],
+   "app_mes_atual": "normal · Costuma subir 21% até fev",
+   "status": "atenção"
+  },
+  {
+   "id": "maca",
+   "nome": "Maçã",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "MACA: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['fev', 'mar', 'abr', 'mai'], entressafra ['out', 'nov', 'dez', 'jan']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em jan, mais barato em jul"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "2 produto(s) no histórico; 6 linha(s) no último boletim (2026-11-25): MAÇÃ FUJI, MAÇÃ GALA"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -3%, Campinas +11%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "1.146.297 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "13.793 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab Campinas: preço quase parado na Conab nos últimos 28 dias"
+   ],
+   "app_mes_atual": "normal · Preço costuma ficar estável nos próximos meses · Em entressafra",
+   "status": "ok"
+  },
+  {
+   "id": "tangerina",
+   "nome": "Tangerina",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "TANGERINA: RJ 75 dias, SP 46 dias, Campinas 50 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "Cepea/Conab: pico ['mai', 'jun', 'jul', 'ago'], entressafra ['set', 'out', 'nov', 'dez', 'jan', 'fev', 'mar', 'abr']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em abr, mais barato em jun"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "3 produto(s) no histórico; 6 linha(s) no último boletim (2026-11-25): MEXERICA RIO, TANGERINA MURCOTE"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -28%, Campinas -33%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "1.031.851 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "143 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab RJ: preço quase parado na Conab nos últimos 28 dias",
+    "Conab Campinas: preço quase parado na Conab nos últimos 28 dias",
+    "Preço repetido o mês inteiro em jan, fev, jun, nov, dez (baixa confiança nesses meses)",
+    "No CEAGESP e fora do mapeamento (de propósito ou não): TANGERINA DECOPOM, TANGERINA OLE"
+   ],
+   "app_mes_atual": "normal · Preço costuma ficar estável nos próximos meses (baixa confiança: preço repetido pela Conab) · Em entressafra",
+   "status": "ok"
+  },
+  {
+   "id": "goiaba",
+   "nome": "Goiaba",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "GOIABA: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "CEAGESP — volume de entrada 2023–2025: pico ['jan', 'fev', 'mar', 'abr'], entressafra ['jun', 'jul']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": true,
+     "detalhe": "mais caro em jun, mais barato em set"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "2 produto(s) no histórico; 6 linha(s) no último boletim (2026-11-25): GOIABA BRANCA, GOIABA VERMELHA"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": false,
+     "detalhe": "SP -48%, Campinas -35%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "604.455 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "1.082 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab RJ: preço quase parado na Conab nos últimos 28 dias",
+    "Preço repetido o mês inteiro em jun (baixa confiança nesses meses)"
+   ],
+   "app_mes_atual": "normal · Preço costuma ficar estável nos próximos meses",
+   "status": "atenção"
+  },
+  {
+   "id": "maracuja",
+   "nome": "Maracujá",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "MARACUJA AZEDO: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "CEAGESP — volume de entrada 2023–2025: pico ['set', 'out'], entressafra ['mai', 'dez']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": false,
+     "detalhe": "mais caro em set, mais barato em jul — fora da entressafra: o app esconde o texto de safra e mostra 'padrão em investigação'"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "1 produto(s) no histórico; 3 linha(s) no último boletim (2026-11-25): MARACUJÁ AZEDO"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -14%, Campinas -1%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "864.518 t"
+    }
+   ],
+   "notas": [
+    "Conab RJ: preço quase parado na Conab nos últimos 28 dias",
+    "Conab Campinas: preço quase parado na Conab nos últimos 28 dias",
+    "No CEAGESP e fora do mapeamento (de propósito ou não): MARACUJÁ DOCE"
+   ],
+   "app_mes_atual": "normal · Costuma subir 33% até dez",
+   "status": "atenção"
+  },
+  {
+   "id": "abacate",
+   "nome": "Abacate",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "ABACATE: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "CEAGESP — volume de entrada 2023–2025: pico ['ago', 'set', 'out', 'nov'], entressafra ['fev', 'mar', 'abr', 'mai']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": false,
+     "detalhe": "mais caro em dez, mais barato em jun — fora da entressafra: o app esconde o texto de safra e mostra 'padrão em investigação'"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "3 produto(s) no histórico; 4 linha(s) no último boletim (2026-11-25): ABACATE BREDA, ABACATE MARGARIDA"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -11%, Campinas +0%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "503.627 t"
+    }
+   ],
+   "notas": [
+    "No CEAGESP e fora do mapeamento (de propósito ou não): ABACATE AVOCADO/HASS/FUERTE"
+   ],
+   "app_mes_atual": "muito caro · Costuma subir 23% até dez",
+   "status": "atenção"
+  },
+  {
+   "id": "melancia",
+   "nome": "Melancia",
+   "checagens": [
+    {
+     "nome": "Conab: preço da variedade de referência",
+     "ok": true,
+     "detalhe": "MELANCIA: RJ 75 dias, SP 46 dias, Campinas 51 dias"
+    },
+    {
+     "nome": "Base anual: 12 meses de preço na CEASA-RJ",
+     "ok": true,
+     "detalhe": "12 meses no ano-base 2025"
+    },
+    {
+     "nome": "Calendário de safra",
+     "ok": true,
+     "detalhe": "CEAGESP — volume de entrada 2023–2025: pico ['out', 'nov', 'dez'], entressafra ['mai', 'jun', 'jul']"
+    },
+    {
+     "nome": "Preço confirma o calendário (mais caro na entressafra)",
+     "ok": false,
+     "detalhe": "mais caro em fev, mais barato em jan — fora da entressafra: o app esconde o texto de safra e mostra 'padrão em investigação'"
+    },
+    {
+     "nome": "CEAGESP: produto encontrado no boletim",
+     "ok": true,
+     "detalhe": "1 produto(s) no histórico; 3 linha(s) no último boletim (2026-11-25): MELANCIA"
+    },
+    {
+     "nome": "Diferença entre praças dentro do esperado (< 45%)",
+     "ok": true,
+     "detalhe": "SP -35%, Campinas -13%"
+    },
+    {
+     "nome": "IBGE/PAM: produção encontrada",
+     "ok": true,
+     "detalhe": "2.251.431 t"
+    },
+    {
+     "nome": "Comex Stat: exportação encontrada",
+     "ok": true,
+     "detalhe": "185.554 t no ano"
+    }
+   ],
+   "notas": [
+    "Conab RJ: preço quase parado na Conab nos últimos 28 dias",
+    "Preço repetido o mês inteiro em nov, dez (baixa confiança nesses meses)",
+    "No CEAGESP e fora do mapeamento (de propósito ou não): MELANCIA BABY"
+   ],
+   "app_mes_atual": "normal · Costuma subir 34% até fev (baixa confiança: preço repetido pela Conab)",
+   "status": "atenção"
+  }
+ ]
+}

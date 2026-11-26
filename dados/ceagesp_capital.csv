@@ -1,5 +1,5 @@
 data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta,fonte,certeza
-2026-11-11,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.05,14.04,15.15,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.05,14.04,15.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.36,6.8,7.22,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.72,5.53,6.34,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,2.73,2.98,3.22,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -135,7 +135,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-11,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,1.93,2.06,2.18,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,1.64,1.75,1.88,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.31,1.41,1.52,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-11,FRUTAS,MELANCIA BABY,-,KG,3.76,4.11,4.47,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MELANCIA BABY,-,KG,3.76,4.11,4.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,4.01,4.14,4.26,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.76,3.85,3.96,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.57,3.66,3.72,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -148,9 +148,9 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-11,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,4.01,4.15,4.28,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.56,3.8,4.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.56,5.89,6.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-11,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.58,9.06,9.55,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-11,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.19,7.28,7.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-11,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,4.19,5.05,5.9,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.58,9.06,9.55,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.19,7.28,7.76,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,4.19,5.05,5.9,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MIRTILO,-,KG,53.33,56.68,60.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MIRTILO IMP.,-,KG,71.95,82.65,93.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,26.45,29.44,31.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -210,7 +210,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-11,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,4.62,4.97,5.34,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,3.78,4.1,4.43,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,2.84,3.16,3.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-11,FRUTAS,TANGERINA PONCÃ,02 A 04 DZ,KG,9.35,10.55,11.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,TANGERINA PONCÃ,02 A 04 DZ,KG,9.35,10.55,11.75,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA ARRA 15,-,KG,16.53,17.87,19.2,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,13.69,15.42,17.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA BENITAKA,A,KG,10.05,10.84,11.66,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -232,14 +232,14 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-11,FRUTAS,UVA RED GLOBE,B,KG,15.51,16.77,18.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA RED GLOBE IMP.,A,KG,17.66,18.29,18.91,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA RED GLOBE IMP.,B,KG,16.32,16.71,17.19,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-11,FRUTAS,UVA RUBI,A,KG,8.75,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-11,FRUTAS,UVA RUBI,B,KG,6.25,6.88,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RUBI,A,KG,8.75,9.38,10.0,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-11,FRUTAS,UVA RUBI,B,KG,6.25,6.88,7.5,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA THOMPSON,A,KG,13.15,13.89,14.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA THOMPSON,B,KG,11.18,11.89,12.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,11.01,12.5,14.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA VITÓRIA,A,KG,10.89,11.52,12.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-11,FRUTAS,UVA VITÓRIA,B,KG,9.51,10.13,10.79,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.27,14.28,15.4,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.27,14.28,15.4,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.33,6.74,7.14,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.67,5.5,6.33,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,2.7,2.95,3.2,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -377,7 +377,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-13,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.07,2.19,2.31,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,1.72,1.85,1.95,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.32,1.44,1.54,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,MELANCIA BABY,-,KG,3.51,3.86,4.23,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MELANCIA BABY,-,KG,3.51,3.86,4.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.83,3.96,4.06,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.57,3.66,3.76,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.34,3.41,3.48,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -390,9 +390,9 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-13,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.54,3.77,3.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,2.86,3.19,3.53,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.56,5.89,6.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.42,8.89,9.38,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.07,7.17,7.65,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,4.18,5.04,5.91,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.42,8.89,9.38,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.07,7.17,7.65,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,4.18,5.04,5.91,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MIRTILO,-,KG,53.3,56.64,59.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MIRTILO IMP.,-,KG,74.64,79.15,83.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,25.01,29.41,32.73,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -450,7 +450,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-13,FRUTAS,TANGERINA OLE,03 A 04 DZ,KG,5.42,5.62,5.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,TANGERINA OLE,05 A 06 DZ,KG,4.73,4.93,5.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,TANGERINA OLE,08 A 10 DZ,KG,3.53,3.94,4.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,TANGERINA PONCÃ,02 A 04 DZ,KG,8.0,9.0,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,TANGERINA PONCÃ,02 A 04 DZ,KG,8.0,9.0,10.0,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA ARRA 15,-,KG,15.74,16.9,18.05,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA ARRA CHERRY CRUSH,-,KG,15.23,16.63,18.03,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA BENITAKA,A,KG,11.18,11.82,12.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -472,14 +472,14 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-13,FRUTAS,UVA RED GLOBE,B,KG,14.07,15.27,16.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA RED GLOBE IMP.,A,KG,20.0,20.63,21.25,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA RED GLOBE IMP.,B,KG,18.5,18.5,18.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,UVA RUBI,A,KG,8.76,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-13,FRUTAS,UVA RUBI,B,KG,6.26,6.88,7.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RUBI,A,KG,8.76,9.38,10.0,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-13,FRUTAS,UVA RUBI,B,KG,6.26,6.88,7.5,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA THOMPSON,A,KG,12.2,13.1,14.01,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA THOMPSON,B,KG,10.22,11.11,12.02,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,13.5,14.8,16.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA VITÓRIA,A,KG,11.83,12.66,13.48,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-13,FRUTAS,UVA VITÓRIA,B,KG,10.04,10.85,11.63,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-16,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.04,14.21,15.36,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.04,14.21,15.36,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,5.7,5.94,6.2,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.84,5.12,5.41,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,ABACATE GEADA,BOCA 08 A 11,KG,4.0,4.25,4.5,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -611,7 +611,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-16,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.16,2.28,2.39,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,1.75,1.86,1.94,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.3,1.4,1.5,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-16,FRUTAS,MELANCIA BABY,-,KG,4.28,4.61,4.94,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MELANCIA BABY,-,KG,4.28,4.61,4.94,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.94,4.08,4.18,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.69,3.79,3.92,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.4,3.54,3.66,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -624,9 +624,9 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-16,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.51,3.64,3.73,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.14,3.36,3.51,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.58,6.08,6.58,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-16,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.76,9.26,9.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-16,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.04,7.49,7.92,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-16,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,5.41,5.84,6.27,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.76,9.26,9.76,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.04,7.49,7.92,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,5.41,5.84,6.27,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MIRTILO,-,KG,53.33,56.67,60.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MIRTILO IMP.,-,KG,74.12,78.51,82.65,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,24.1,27.52,31.33,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -697,13 +697,13 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-16,FRUTAS,UVA RED GLOBE,B,KG,12.96,13.84,14.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,UVA RED GLOBE IMP.,A,KG,18.25,18.5,18.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,UVA RED GLOBE IMP.,B,KG,17.63,17.88,18.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-16,FRUTAS,UVA RUBI,A,KG,8.75,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-16,FRUTAS,UVA RUBI,B,KG,7.5,8.13,8.75,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RUBI,A,KG,8.75,9.38,10.0,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-16,FRUTAS,UVA RUBI,B,KG,7.5,8.13,8.75,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,UVA THOMPSON,A,KG,12.36,12.86,13.47,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,UVA THOMPSON,B,KG,10.27,11.2,12.11,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,UVA VITÓRIA,A,KG,11.6,12.35,13.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-16,FRUTAS,UVA VITÓRIA,B,KG,9.67,10.61,11.55,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-18,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.03,14.12,15.23,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,13.03,14.12,15.23,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,5.44,5.74,6.04,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,4.48,4.83,5.18,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,ABACATE GEADA,BOCA 08 A 11,KG,4.0,4.25,4.5,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -836,7 +836,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-18,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.47,2.61,2.75,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,2.02,2.14,2.23,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.57,1.65,1.76,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-18,FRUTAS,MELANCIA BABY,-,KG,4.15,4.49,4.85,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MELANCIA BABY,-,KG,4.15,4.49,4.85,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.7,3.84,3.94,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.4,3.54,3.68,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.12,3.25,3.39,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -849,9 +849,9 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-18,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.49,3.61,3.71,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.1,3.34,3.49,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,5.0,5.5,6.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-18,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.59,9.11,9.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-18,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,6.93,7.4,7.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-18,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,5.42,5.85,6.3,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.59,9.11,9.62,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,6.93,7.4,7.83,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,5.42,5.85,6.3,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MIRTILO IMP.,-,KG,62.5,70.6,77.99,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,20.24,25.1,29.9,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,MORANGO COMUM,4 CUMB/ 1 CAM,KG,14.0,16.0,18.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -923,14 +923,14 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-18,FRUTAS,UVA PRETA COM SEMENTE,-,KG,10.57,11.75,12.93,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,UVA RED GLOBE IMP.,A,KG,17.2,17.65,18.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,UVA RED GLOBE IMP.,B,KG,15.59,16.36,17.14,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-18,FRUTAS,UVA RUBI,A,KG,8.76,9.38,10.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-18,FRUTAS,UVA RUBI,B,KG,7.5,8.14,8.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA RUBI,A,KG,8.76,9.38,10.0,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-18,FRUTAS,UVA RUBI,B,KG,7.5,8.14,8.76,1.0,Uva,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,UVA THOMPSON,A,KG,13.13,13.88,14.72,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,UVA THOMPSON,B,KG,11.05,12.03,12.97,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,14.24,14.73,15.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,UVA VITÓRIA,A,KG,11.22,11.91,12.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-18,FRUTAS,UVA VITÓRIA,B,KG,9.55,10.21,10.85,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-23,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,11.93,14.03,16.13,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,11.93,14.03,16.13,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.02,6.27,6.49,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,5.07,5.21,5.33,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,3.01,3.25,3.5,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -1072,7 +1072,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-23,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.75,2.88,3.01,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,2.33,2.43,2.55,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.92,2.02,2.14,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-23,FRUTAS,MELANCIA BABY,-,KG,4.02,4.35,4.67,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MELANCIA BABY,-,KG,4.02,4.35,4.67,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,3.6,3.75,3.89,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.23,3.38,3.53,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,2.86,3.02,3.16,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -1085,9 +1085,9 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-23,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.88,4.01,4.15,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.47,3.63,3.76,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,4.0,4.5,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-23,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.55,9.06,9.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-23,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.53,8.04,8.55,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-23,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,6.41,6.94,7.45,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.55,9.06,9.59,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.53,8.04,8.55,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-23,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,6.41,6.94,7.45,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MIRTILO IMP.,-,KG,65.43,71.39,76.77,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,20.5,23.49,25.5,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,MORANGO COMUM,4 CUMB/ 1 CAM,KG,30.0,33.0,35.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -1163,7 +1163,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-23,FRUTAS,UVA VERMELHA SEM SEMENTE,-,KG,15.93,17.13,18.35,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,UVA VITÓRIA,A,KG,12.42,13.29,14.09,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-23,FRUTAS,UVA VITÓRIA,B,KG,10.07,10.86,11.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-25,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,11.83,14.07,16.32,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,ABACATE AVOCADO/HASS/FUERTE,A,KG,11.83,14.07,16.32,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,ABACATE BREDA,BOCA 08 A 11,KG,6.17,6.41,6.63,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,ABACATE BREDA,BOCA 12 A 15,KG,5.16,5.31,5.45,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,ABACATE MARGARIDA,BOCA 08 A 11,KG,3.13,3.38,3.62,1.0,Abacate,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -1301,7 +1301,7 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-25,FRUTAS,MELANCIA,GRAÚDA (MAIOR QUE 10 KG),KG,2.64,2.76,2.88,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MELANCIA,MÉDIA ( DE 7 A 10 KG),KG,2.19,2.32,2.44,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MELANCIA,MIÚDA (MENOR QUE 7 KG),KG,1.77,1.9,2.01,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-25,FRUTAS,MELANCIA BABY,-,KG,3.9,4.25,4.59,1.0,Melancia,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MELANCIA BABY,-,KG,3.9,4.25,4.59,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MELÃO AMARELO,05 A 07 FRUTOS,KG,4.0,4.16,4.28,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MELÃO AMARELO,08 A 09 FRUTOS,KG,3.62,3.76,3.92,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MELÃO AMARELO,10 A 12 FRUTOS,KG,3.25,3.39,3.54,1.0,Melão,CEAGESP — Boletim do Entreposto da Capital,oficial
@@ -1314,9 +1314,9 @@ data,grupo,produto,classificacao,unidade,menor,comum,maior,quilo_embalagem,fruta
 2026-11-25,FRUTAS,MELÃO PELE DE SAPO,08 A 09 FRUTOS,KG,3.71,3.84,4.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MELÃO PELE DE SAPO,10 A 12 FRUTOS,KG,3.24,3.47,3.62,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,"MELÃO POLPA BRANCA ""MATISSE""",-,KG,4.17,4.58,5.0,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-25,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.47,8.97,9.44,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-25,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.49,7.94,8.39,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
-2026-11-25,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,6.19,6.72,7.24,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MEXERICA RIO,04 A 05 DZ,KG,8.47,8.97,9.44,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MEXERICA RIO,06 A 07 DZ,KG,7.49,7.94,8.39,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
+2026-11-25,FRUTAS,MEXERICA RIO,08 A 09 DZ,KG,6.19,6.72,7.24,1.0,Tangerina,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MIRTILO IMP.,-,KG,62.34,69.02,75.68,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MORANGO CAMINO REAL,4 CUMB/ 1 CAM,KG,23.54,28.53,33.54,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial
 2026-11-25,FRUTAS,MORANGO CAMINO REAL,4 CUMB/2 CAM,KG,20.39,23.57,25.83,1.0,,CEAGESP — Boletim do Entreposto da Capital,oficial

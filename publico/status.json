@@ -1,8 +1,8 @@
 {
- "versao": "2026-11-26T19:33:29-03:00",
+ "versao": "2026-11-26T19:48:48-03:00",
  "fontes": {
   "prohort": {
-   "status": "ok",
+   "status": "nao_rodou",
    "dados_ate": "2026-11-04"
   },
   "ceagesp": {

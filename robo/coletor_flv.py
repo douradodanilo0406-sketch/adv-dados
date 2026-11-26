@@ -26,45 +26,16 @@ urllib3.disable_warnings()  # Comex Stat e Conab às vezes têm cadeia de certif
 HOJE = dt.date.today().isoformat()
 
 # ---------------------------------------------------------------- catálogo de frutas
+# catálogo de itens: vem de config/itens.json (robo/catalogo.py)
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import catalogo  # noqa: E402
 # nome padrão -> (produto PAM, tabela PAM, produtos Prohort, NCM exportação)
-FRUTAS = {
-    "Laranja":   ("Laranja", "1613", ["LARANJA PERA"], ["08051000"]),
-    "Limão":     ("Limão", "1613", ["LIMAO TAHITI"], ["08055000"]),
-    "Banana":    ("Banana (cacho)", "1613", ["BANANA NANICA", "BANANA PRATA"], ["08039000"]),
-    "Caqui":     ("Caqui", "1613", ["CAQUI"], []),
-    "Manga":     ("Manga", "1613", ["MANGA"], ["08045020"]),
-    "Uva":       ("Uva", "1613", ["UVA ITALIA", "UVA NIAGARA"], ["08061000"]),
-    "Melão":     ("Melão", "1612", ["MELAO AMARELO"], ["08071900"]),
-    "Abacaxi":   ("Abacaxi*", "1612", ["ABACAXI"], ["08043000"]),
-    "Mamão":     ("Mamão", "1613", ["MAMAO FORMOSA", "MAMAO HAWAY"], ["08072000"]),
-    "Maçã":      ("Maçã", "1613", ["MACA"], ["08081000"]),
-    "Tangerina": ("Tangerina", "1613", ["TANGERINA"], ["08052100"]),
-    "Goiaba":    ("Goiaba", "1613", ["GOIABA"], []),
-    "Maracujá":  ("Maracujá", "1613", ["MARACUJA AZEDO"], []),
-    "Abacate":   ("Abacate", "1613", ["ABACATE"], []),
-    "Melancia":  ("Melancia", "1612", ["MELANCIA"], ["08071100"]),
-}
+FRUTAS = catalogo.frutas_legado()
+# Calendário de referência de mercado (Cepea/Conab) ou, na falta, volume CEAGESP. meses 1=jan … 12=dez
+SAFRA_REF = catalogo.safra_legado()
 CEASA_RJ = "CEASA/RJ - RIO DE JANEIRO"
 URL_PROHORT = "https://portaldeinformacoes.conab.gov.br/downloads/arquivos/{}.txt"
 SCHEMA = "flv-abastecimento/1.0"
-
-# Calendário de referência de mercado (Cepea/Conab) — validado ou contestado pelos preços do ano-base.
-# meses: 1=jan … 12=dez. None = sem referência registrada no vault.
-SAFRA_REF = {
-    "Laranja":   {"pico": [5, 6, 7, 8, 9, 10], "entressafra": [12, 1, 2, 3]},
-    "Limão":     {"pico": [1, 2, 3, 4], "entressafra": [5, 6, 7, 8, 9, 10]},
-    "Banana":    {"pico": [1, 2, 3, 4, 5], "entressafra": [6, 7, 8]},
-    "Caqui":     {"pico": [1, 2, 3, 4, 5], "entressafra": [6, 7, 8, 9, 10, 11, 12]},
-    "Manga":     {"pico": [10, 11, 12, 1, 2], "entressafra": [5, 6, 7, 8]},
-    "Uva":       {"pico": [1, 2, 3], "entressafra": [4, 5, 6, 7, 8, 9, 10, 11, 12],
-                  "obs": "Calendário do RS; uva de mesa de PE/BA tem oferta o ano todo, com picos no 2º semestre"},
-    "Melão":     {"pico": [8, 9, 10, 11, 12, 1], "entressafra": [2, 3, 4, 5, 6]},
-    "Abacaxi":   {"pico": [10, 11, 12, 1], "entressafra": [2, 3, 4, 5]},
-    "Mamão":     {"pico": [9, 10, 11, 12, 1, 2, 3], "entressafra": [6, 7, 8]},
-    "Maçã":      {"pico": [2, 3, 4, 5], "entressafra": [10, 11, 12, 1],
-                  "obs": "Colheita; câmara fria garante oferta o ano todo"},
-    "Tangerina": {"pico": [5, 6, 7, 8], "entressafra": [9, 10, 11, 12, 1, 2, 3, 4]},
-}
 UF_SIGLA = {
     "Acre": "AC", "Alagoas": "AL", "Amapá": "AP", "Amazonas": "AM", "Bahia": "BA", "Ceará": "CE",
     "Distrito Federal": "DF", "Espírito Santo": "ES", "Goiás": "GO", "Maranhão": "MA", "Mato Grosso": "MT",
@@ -88,7 +59,10 @@ def log(msg):
 def coletar_pam(ano):
     log(f"IBGE/PAM {ano} …")
     linhas = []
+    tabelas = {v[1] for v in FRUTAS.values() if v[1]}
     for tab, cls in (("1613", "c82"), ("1612", "c81")):
+        if tab not in tabelas:
+            continue
         url = f"https://apisidra.ibge.gov.br/values/t/{tab}/n3/all/v/214/p/{ano}/{cls}/all"
         d = requests.get(url, timeout=180).json()[1:]
         for x in d:
@@ -97,7 +71,7 @@ def coletar_pam(ano):
             linhas.append({"tabela": tab, "produto_pam": x["D4N"], "uf": x["D1N"],
                            "toneladas": float(x["V"]), "ano": int(x["D3N"])})
     df = pd.DataFrame(linhas)
-    nomes = {v[0]: k for k, v in FRUTAS.items()}
+    nomes = {v[0]: k for k, v in FRUTAS.items() if v[0]}
     df = df[df.produto_pam.isin(nomes)].copy()
     df["fruta"] = df.produto_pam.map(nomes)
     df["participacao_%"] = df.toneladas / df.groupby("fruta").toneladas.transform("sum") * 100
@@ -140,6 +114,10 @@ def ler_prohort(caminho, **kw):
     df = pd.read_csv(caminho, sep=";", encoding="latin1", dtype=str, **kw)
     for c in df.columns:
         df[c] = df[c].str.strip()
+    # a Conab às vezes repete a mesma linha (mesma praça, produto e dia): conta uma vez só
+    chave = [c for c in ("dsc_ceasa", "dsc_produto", "sig_unidade_medida", "data_preco", "preco_diario") if c in df.columns]
+    if chave:
+        df = df.drop_duplicates(chave)
     return df
 
 

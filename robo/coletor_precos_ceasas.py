@@ -45,16 +45,10 @@ PRACAS = {
 }
 REFERENCIA = "ceasa-rj"
 
-# Produto do boletim CEAGESP -> fruta do catálogo. Ordem importa (o primeiro que casar vence).
+# Produto do boletim CEAGESP -> item do catálogo (config/itens.json). Ordem importa (o primeiro que casar vence).
 # Importados ficam de fora para não distorcer a comparação com o Prohort (que é nacional).
-CEAGESP_MAPA = [
-    ("Laranja", r"^LARANJA PERA$"), ("Limão", r"^LIM[AÃ]O TAITI$"),
-    ("Banana", r"^BANANA (NANICA|PRATA)"), ("Caqui", r"^CAQUI"), ("Manga", r"^MANGA"),
-    ("Uva", r"^UVA (IT[AÁ]LIA|NIAGARA|NI[AÁ]GARA)"), ("Melão", r"^MEL[AÃ]O AMARELO$"),
-    ("Abacaxi", r"^ABACAXI"), ("Mamão", r"^MAM[AÃ]O (FORMOSA|HAVA[IÍ])"), ("Maçã", r"^MA[CÇ][AÃ] "),
-    ("Tangerina", r"^TANGERINA (PONKAN|MURCOTE?)"), ("Goiaba", r"^GOIABA"),
-    ("Maracujá", r"^MARACUJ[AÁ] AZEDO"), ("Abacate", r"^ABACATE"), ("Melancia", r"^MELANCIA"),
-]
+import catalogo  # noqa: E402
+CEAGESP_MAPA = catalogo.ceagesp_mapa()
 URL_CEAGESP = "https://ceagesp.gov.br/cotacoes/"
 UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
                     "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
@@ -110,7 +104,8 @@ def _num(x):
         return None
 
 
-def coletar_ceagesp(grupos=("FRUTAS",)):
+def coletar_ceagesp(grupos=None):
+    grupos = grupos or catalogo.grupos_ceagesp()
     html = _req("GET", URL_CEAGESP).text
     m = re.search(r"var Grupos = (\{.*?\});", html)
     if not m:
@@ -178,25 +173,53 @@ def media_janela(s, ultima, dias=28):
     return round(float(j.preco.mean()), 2) if len(j) else None
 
 
+def _resumo_praca(s):
+    ult = s.sort_values("data").iloc[-1]
+    j = s[pd.to_datetime(s.data) >= pd.to_datetime(ult.data) - pd.Timedelta(days=28)]
+    d = {"ultimo": {"data": ult.data, "preco": round(float(ult.preco), 2)},
+         "media_28d": media_janela(s, ult.data), "unidade": str(ult.unidade).strip(),
+         "dias_28d": int(j.data.nunique()), "precos_distintos_28d": int(j.preco.round(2).nunique()),
+         "fonte": "Conab/Prohort Diário", "certeza": "oficial"}
+    # preço parado (mesmo valor quase todos os dias) = a Conab provavelmente repetiu o valor
+    if d["dias_28d"] >= 8 and d["precos_distintos_28d"] <= 2:
+        d["confianca"] = "baixa"
+        d["obs"] = "preço quase parado na Conab nos últimos 28 dias"
+    return d
+
+
 def exportar(prohort, ceagesp, colubande, caminho):
     frutas = []
-    for fruta, (_, _, prods, _) in FRUTAS.items():
-        item = {"id": slug(fruta), "nome": fruta, "produtos_prohort": prods,
-                "pracas": {}, "comparacao_vs_rj": {}, "ceagesp_classificacoes": [], "colubande": []}
+    for item_cat in catalogo.ITENS:
+        fruta = item_cat["nome"]
+        prods = catalogo.prohort_de(item_cat)
+        ref_prod = catalogo.referencia_prohort(item_cat)
+        item = {"id": item_cat["id"], "nome": fruta, "produtos_prohort": prods,
+                "pracas": {}, "comparacao_vs_rj": {}, "variedades": [],
+                "ceagesp_classificacoes": [], "colubande": []}
         p = prohort[prohort.fruta == fruta] if len(prohort) else prohort
-        for praca in PRACAS:
-            s = p[p.praca == praca] if len(p) else p
-            if not len(s):
+        for v in item_cat["variedades"]:
+            if not v.get("prohort") or not len(p):
                 continue
-            ult = s.sort_values("data").iloc[-1]
-            item["unidade"] = ult.unidade.strip()
-            item["pracas"][praca] = {
-                "ultimo": {"data": ult.data, "preco": round(float(ult.preco), 2)},
-                "media_28d": media_janela(s, ult.data),
-                "fonte": "Conab/Prohort Diário", "certeza": "oficial"}
+            pv = p[p.produto_prohort == v["prohort"]]
+            var = {"nome": v["nome"], "produto_prohort": v["prohort"], "pracas": {}}
+            for praca in PRACAS:
+                s = pv[pv.praca == praca]
+                if len(s):
+                    var["pracas"][praca] = _resumo_praca(s)
+            if var["pracas"]:
+                item["variedades"].append(var)
+        # comparação entre praças = SÓ a variedade de referência (mesmo produto nas 3 praças)
+        ref_var = next((x for x in item["variedades"] if x["produto_prohort"] == ref_prod), None)
+        if ref_var:
+            item["variedade_referencia"] = ref_var["nome"]
+            item["pracas"] = ref_var["pracas"]
+            unid = {v["unidade"] for v in item["pracas"].values()}
+            item["unidade"] = sorted(unid)[0]
+            if len(unid) > 1:  # unidades diferentes entre praças: não dá para comparar
+                item["obs_comparacao"] = f"unidades diferentes entre praças: {sorted(unid)}"
         ref = item["pracas"].get(REFERENCIA, {}).get("media_28d")
         for praca, v in item["pracas"].items():
-            if praca != REFERENCIA and ref and v["media_28d"]:
+            if praca != REFERENCIA and ref and v["media_28d"] and not item.get("obs_comparacao"):
                 item["comparacao_vs_rj"][praca] = round((v["media_28d"] / ref - 1) * 100)
         if len(ceagesp):
             c = ceagesp[ceagesp.fruta == fruta]
