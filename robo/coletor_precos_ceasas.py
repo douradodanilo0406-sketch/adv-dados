@@ -56,7 +56,25 @@ CEAGESP_MAPA = [
     ("Maracujá", r"^MARACUJ[AÁ] AZEDO"), ("Abacate", r"^ABACATE"), ("Melancia", r"^MELANCIA"),
 ]
 URL_CEAGESP = "https://ceagesp.gov.br/cotacoes/"
-UA = {"User-Agent": "Mozilla/5.0 (AdV coletor; uso pessoal de pesquisa)"}
+UA = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 "
+                    "(KHTML, like Gecko) Chrome/124.0 Safari/537.36",
+      "Accept-Language": "pt-BR,pt;q=0.9", "Referer": "https://ceagesp.gov.br/cotacoes/"}
+
+
+def _req(metodo, url, tentativas=3, **kw):
+    import time
+    ultimo = None
+    for i in range(tentativas):
+        try:
+            r = requests.request(metodo, url, headers=UA, timeout=60, **kw)
+            if r.status_code == 200 and len(r.text) > 1000:
+                return r
+            ultimo = f"HTTP {r.status_code}, {len(r.text)} bytes"
+        except Exception as e:
+            ultimo = str(e)
+        log(f"CEAGESP tentativa {i + 1}: {ultimo}")
+        time.sleep(15 * (i + 1))
+    raise RuntimeError(f"CEAGESP não respondeu: {ultimo}")
 
 COLUBANDE_COLS = ["data", "fruta", "produto", "classificacao", "embalagem", "peso_kg",
                   "preco_embalagem", "preco_kg", "loja_ou_fonte", "observacao"]
@@ -93,7 +111,7 @@ def _num(x):
 
 
 def coletar_ceagesp(grupos=("FRUTAS",)):
-    html = requests.get(URL_CEAGESP, headers=UA, timeout=60).text
+    html = _req("GET", URL_CEAGESP).text
     m = re.search(r"var Grupos = (\{.*?\});", html)
     if not m:
         log("CEAGESP: não achei a lista de datas — o site pode ter mudado.")
@@ -102,10 +120,12 @@ def coletar_ceagesp(grupos=("FRUTAS",)):
     linhas = []
     for g in grupos:
         for d in datas.get(g, []):
-            r = requests.post(URL_CEAGESP, data={"cot_grupo": g, "cot_data": d}, headers=UA, timeout=60)
+            r = _req("POST", URL_CEAGESP, data={"cot_grupo": g, "cot_data": d})
+            import time; time.sleep(2)
             try:
                 t = pd.read_html(io.StringIO(r.text), thousands=None)[0]
             except ValueError:
+                log(f"CEAGESP {g} {d}: sem tabela")
                 continue
             t = t.iloc[2:]  # linha 0 = título, linha 1 = cabeçalho
             for _, x in t.iterrows():
